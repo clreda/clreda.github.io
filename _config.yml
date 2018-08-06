@@ -1,0 +1,22 @@
+title: 
+description: #>- this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://www.clreda.ml
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+host: 0.0.0.0
+port: 4080
+google_analytics: UA-122742004-1
+
+publications: 
+projects:
+
+email: creda@ens-paris-saclay.fr
+github_username:  clreda
+discord_username:  kureda
+address: "64, avenue du Président Wilson, 94230 Cachan, France"

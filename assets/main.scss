@@ -1,0 +1,70 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+	background-color: #fff;
+
+	font-size: calc(1vh + 1wv);
+}
+
+.header {
+	font-size: 2em;
+	background-color: #f2f2f2;
+
+	-webkit-box-shadow: px 0px 30px rgba(255,255,255,0.8) inset, 1px 1px 2px rgba(0,0,0,0.3);
+	-moz-box-shadow: 0px 0px 30px rgba(255,255,255,0.8) inset, 1px 1px 2px rgba(0,0,0,0.3);
+	box-shadow: 0px 0px 30px rgba(255,255,255,0.8) inset, 1px 1px 2px rgba(0,0,0,0.3);
+
+	margin: 10px;
+	padding: 10px;
+
+	.header-title {
+		text-align: center;
+		font-family: 'Merriweather', serif;
+
+		width: 100%;
+	}
+}
+
+.articles {
+	padding-left: 20px;
+}
+
+.content {
+	margin-left: 20px;
+
+	font-size: 1.1em;
+	text-align: justify;
+	font-family: 'Open Sans', sans-serif;
+
+	width: 90%;
+}
+
+.introduction {}
+
+a, a:hover {
+	text-decoration: none;
+	font-color: #f2f2f2;
+}
+
+a:hover {
+	-webkit-box-shadow: px 0px 30px rgba(255,255,255,0.8) inset, 1px 1px 2px rgba(0,0,0,0.3);
+	-moz-box-shadow: 0px 0px 30px rgba(255,255,255,0.8) inset, 1px 1px 2px rgba(0,0,0,0.3);
+	box-shadow: 0px 0px 30px rgba(255,255,255,0.8) inset, 1px 1px 2px rgba(0,0,0,0.3);
+}
+
+.projects {
+	.projects-title {
+		font-size: 1.3em;
+	}
+	.projects-subtitle {
+		font-size: 1.2em;
+	}
+}
+
+.publications {}
