@@ -11,7 +11,7 @@ plugins:
 
 host: 0.0.0.0
 port: 4080
-google_analytics: UA-122742004-1
+google_analytics: UA-123473849-1
 
 publications: 
 projects:
