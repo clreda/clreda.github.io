@@ -2,7 +2,19 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-<base target="_blank">
+<script type="text/javascript">
+	var isMobile = function() {
+	   console.log("Navigator: " + navigator.userAgent);
+	   return /(iphone|ipod|ipad|android|blackberry|windows ce|palm|symbian)/i.test(navigator.userAgent);
+	};
+	window.onload = function () {
+		if (!(isMobile())) {
+			var links = document.getElementsByTagName("a");
+			for (var i = 0; i < links.length; i++) {
+				links[i].target = "_blank";
+			}
+	};
+</script>
         <title>Clémence Réda</title>
 	<style>p.indent{ padding-left: 10em }</style>
 	<style>p.indent2{ padding-left: 1em }</style>
