@@ -17,5 +17,7 @@
 <meta name="msapplication-TileColor" content="#603cba">
 <meta name="theme-color" content="#ffffff">
 
-
+{% if site.host != "localhost" %}
+	{% include google-analytics.html %}
+{% endif %}
 </head>
