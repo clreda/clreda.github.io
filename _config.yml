@@ -13,6 +13,8 @@ host: 0.0.0.0
 port: 4080
 google_analytics: UA-123473849-1
 
+plugins: ["jekyll-seo-tag"]
+
 publications: 
 projects:
 
