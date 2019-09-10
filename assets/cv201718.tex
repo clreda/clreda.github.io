@@ -8,60 +8,56 @@
 \moderncvstyle{classic}
 %\moderncvstyle{oldstyle}
 %\moderncvstyle{banking}
-\moderncvcolor{blue}
+\usepackage[unicode]{hyperref}
+\moderncvcolor{red}
 \usepackage{CJKutf8}
-\usepackage[top=1.1cm, bottom=1.1cm, left=2cm, right=2cm]{geometry}
+\usepackage{geometry}
 \setlength{\hintscolumnwidth}{2.5cm}
 
-\firstname{Curriculum}
-\familyname{Vitae}
+\firstname{\texttt{\textcolor{red}{Curriculum}}}
+\familyname{\texttt{\textcolor{red}{Vit\ae}}}
 \title{Clémence Réda}
-\email{creda@ens-paris-saclay.fr}
+\email{clemence.reda@inserm.fr}
 \homepage{clreda.github.io}
-\address{61, avenue du Président Wilson}{94230 Cachan}{France}
-\extrinfo{Last modified on 02.10.19}
-\extrainfo{\faGithub{ clreda}}
+\address{UMR 1141, Bât. Bingen\\48, boulevard Sérurier\\}{75020 Paris}{France}
+\extrainfo{\faGithub{ \href{https://www.github.com/clreda}{clreda}}}
 
 \begin{document}
 \makecvtitle
 
 \section{Education and qualifications}
-\cventry{2018 -- present}{Masters MVA}{ENS Paris-Saclay (former Ecole Normale Supérieure* de Cachan)}{}{}{Second year of \textit{Master Vision, Apprentissage (MVA)} diploma in Mathematics and Computer Science. \textbf{Subjects:} Biostatistics, Deep Learning, Game Theory, Graphs in Machine Learning, Mathematical Methods for Imaging, Modelling in Neurosciences, Object Recognition and Computer Vision, Predictions of Individual Sequences, Probabilistic Graphical Models, Reinforcement Learning, Topological Data Analysis.\\}
+\cventry{2019 -- present}{PhD}{Université Paris Diderot, Inserm UMR 1141 and CNRS UMR 9189}{}{}{PhD in Genetics: \textbf{drug repurposing \emph{via} gene network analysis}, supervised by \href{http://neurodiderot.org/index.php/en/delahaye-en/}{Andrée Delahaye-Duriez} \& \href{http://chercheurs.lille.inria.fr/ekaufman/}{\'{E}milie Kaufmann}.\\}
+\cventry{2018 -- 2019}{Masters MVA}{ENS Paris-Saclay (former Ecole Normale Supérieure* de Cachan)}{}{}{Second year of \textit{Master Vision, Apprentissage (MVA)} diploma in Mathematics and Computer Science. \textbf{Subjects:} Biostatistics, Deep Learning, Game Theory, Graphs in Machine Learning, Mathematical Methods for Imaging, Modelling in Neurosciences, Object Recognition and Computer Vision, Predictions of Individual Sequences, Probabilistic Graphical Models, Reinforcement Learning, Topological Data Analysis.\\}
 \cventry{2017 -- 2018}{Internship}{Faculty of Mathematics, Informatics and Mechanics (University of Warsaw)}{}{}{Ten-month-long internship in research, included in the curriculum of ENS Paris-Saclay (former Ecole Normale Supérieure* de Cachan).\\}
 \cventry{2016 -- 2017}{Masters MPRI}{ENS Paris-Saclay (former Ecole Normale Supérieure* de Cachan)}{}{}{First year of \textit{Master Parisien de Recherche en Informatique (MPRI)} diploma in Computer Science. \textbf{Subjects}: Bioinformatics, Biology, Computer Vision, Convex Optimization, Machine Learning, Networks, Randomized Algorithms.\\}
 \cventry{2015 -- 2016}{Bachelors}{Ecole Normale Supérieure de Cachan and Université Paris Diderot}{}{}{Bachelors degree in Computer Science. \textbf{Subjects}: Algorithmics 101, Complexity/Computability, Databases, Discrete Mathematics, Formal Langages 101, Lambda-Calculus 101, Logics 101, Programmation, Systems.\\}
-\cventry{2013 -- 2015}{\textit{Classe préparatoire aux grandes écoles}**}{Lycée Louis-le-Grand, Paris}{}{}{Majoring in Mathematics, Computer Science and Physics (MPSI/MP).\\}
-\cventry{2013}{\textit{Baccalauréat S-Mathématiques}***}{Lycée Albert Einstein, Bagnols-sur-Cèze}{}{}{Majoring in Mathematics and Biology (S-SVT-Math).}{\\}
-
-
+\vspace{-0.5cm}
 * {\tiny{\textit{An \textbf{Ecole Normale Supérieure} is an elite school focused on theoretical research.}}}\\
-** {\tiny{\textit{A \textbf{classe préparatoire} is a prep course to train undergraduate students for enrollment in highly-selective French colleges.}}}\\
-*** {\tiny{\textit{The \textbf{baccalauréat} is the French equivalent of a final highschool-leaving/A-level examination.}}}\\
 
 \section{References}
+\cventry{Pr. Andr\'{é}e Delahaye-Duriez}{Head of group \textbf{Integrative Genomics}}{}{}{}{NeuroDiderot/Inserm unit 1141, Robert Debr\'{e} Hospital in Paris, France.}
 \cventry{Dr. Bartek Wilczy\'{n}ski}{Head of team \textbf{Regulomics}}{}{}{}{Faculty of Mathematics, Informatics and Mechanics (MIM UW) in Warsaw, Poland.}
 \cventry{Dr. Nicholas Luscombe}{Head of the \textbf{Bioinformatics and Computational Biology Laboratory} in the Francis Crick Institute and of the \textbf{Genomics and Regulatory Systems Unit} in the OIST}{}{}{}{Francis Crick Institute in London, United Kingdom, and Okinawa Institute of Science and Technology (OIST), in Onna, Japan.}
 \cventry{Dr. Macha Nikolski}{Head of the Bordeaux Bioinformatics Center \textbf{CBiB}}{}{}{}{Member of \textbf{MABioVis} team in LaBRI in Bordeaux, France.}
 
-\section{Conferences}
-\cventry{June \& September 2018}{(\textit{talk})}{BIT'18 and Workshop 6 of ECCB'18}{}{}{C. Réda \& B. Wilczy\'{n}ski. \textbf{Automated Inference of Gene Regulatory Networks Using Explicit Regulatory Modules}.}
-
 \newpage
+
+\section{Conferences}
+\cventry{June \& September 2018}{(\textit{accepted talk})}{BIT'18 and Workshop 6 of ECCB'18}{}{}{\underline{C. Réda} \& B. Wilczy\'{n}ski. \textbf{Automated Inference of Gene Regulatory Networks Using Explicit Regulatory Modules}.}
+
+\section{Papers}
+\cventry{2019}{(\textit{review})}{médecine/sciences, 35(6-7), 515-518}{}{}{A. Delahaye-Duriez, \underline{C. Réda} \& P. Gressens. \textbf{Identification de cibles thérapeutiques et repositionnement de médicaments par analyses de réseaux géniques}.}
 
 \section{Professional Experience}
 \subsection{Internships}
+\cventry{2019}{Internship in Bioinformatics}{\textbf{Integrative Genomics}, supervised by Pr. A. Delahaye-Duriez and Dr. \'{E}milie Kaufmann}{Paris, France}{4 months}{Design of a method to guide drug repurposing via gene regulation network building and analysis.\\}
 \cventry{2017 -- 2018}{Internship in Bioinformatics}{\textbf{Regulomics}, supervised by Dr. B. Wilczy\'{n}ski}{Warsaw, Poland}{10 months}{Theoretical work to include explicit specific biological connections in gene regulatory networks, and study their influence on inference and simulation of such biological models.\\}
 \cventry{2017}{Internship in Bioinformatics}{\textbf{Genomics and Regulatory Systems Unit}, supervised by Dr. N. Luscombe and Dr. G. Ilsley}{Onna-son, Japan}{5 months}{Implementation in R of an application for single-cell RNA-sequencing data analysis, design and implementation of a novel algorithm for cell clustering.\\}
 \cventry{2016}{Internship in Bioinformatics}{\textbf{CBiB}, supervised by Dr. M. Nikolski and Dr. M. Raffinot}{Bordeaux, France}{2 months}{Compared analysis of taxonomic trees in a medical setting: improvement of the analysis of metagenomic data in medical studies: \textit{TaxoTree}, \textit{TaxoCluster}, \textit{TaxoClassifier} softwares in Python.\\}
 
 \section{Skills}
-\subsection{Operating Systems}
-\cvitem{}{Windows (up to 10), Linux (Debian 7 and 8, CentOS 6/7, Ubuntu, Kali, ...), Mac. Virtual machines (VirtualBox).}
 \subsection{Programming languages}
-\cvitem{Intensively used}{R, Python 2 and 3, Matlab/Octave, Bash.}
-\cvitem{Fluent}{OCaml, Javascript/Typescript.}
-\cvitem{Knowledge}{C/C++, PHP, Haskell, Assembler x86.}
-\cvitem{Reports, defences}{LaTeX/Beamer, PowerPoint/Microsoft Word.}
+\cvitem{}{R, Python 2 and 3, Matlab/Octave, Bash, OCaml, Javascript/Typescript, C/C++, PHP, Haskell, Assembler x86.}
 \subsection{Web Programming}
 \cvitem{Frameworks}{Django, Jekyll/Hexo, R Shiny.}
 \cvitem{Languages}{HTML/CSS5.}
@@ -72,6 +68,5 @@
 \cvitemwithcomment{French}{C2}{Native speaker.}
 \cvitemwithcomment{English}{C1}{TOEFL score (in 2016): 643/677.}
 \cvitemwithcomment{Spanish}{B1}{Intermediate level, studied at school for seven years.}
-\cvitemwithcomment{Arabic}{A1}{Basic level, self-taught language.\\}
 
 \end{document}
