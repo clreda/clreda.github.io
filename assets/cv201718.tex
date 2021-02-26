@@ -1,9 +1,11 @@
 \documentclass[11pt,a4paper,sans]{moderncv}
 \nopagenumbers{}
 \moderncvicons{marvosym} 
-\usepackage[scale=0.8]{geometry}
+\usepackage[scale=0.8, margin=0.5in]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage{fontawesome}
+\usepackage{comment}
+\usepackage[dvipsnames]{xcolor}
 \moderncvtheme[blue]{classic}
 \moderncvstyle{classic}
 %\moderncvstyle{oldstyle}
@@ -11,62 +13,73 @@
 \usepackage[unicode]{hyperref}
 \moderncvcolor{red}
 \usepackage{CJKutf8}
-\usepackage{geometry}
 \setlength{\hintscolumnwidth}{2.5cm}
 
-\firstname{\texttt{\textcolor{red}{Curriculum}}}
-\familyname{\texttt{\textcolor{red}{Vit\ae}}}
-\title{Clémence Réda}
-\email{clemence.reda@inserm.fr}
+\firstname{\texttt{\textcolor{red}{Cl\'{e}mence}}}
+\familyname{\texttt{\textcolor{red}{R\'{e}da}}}
+\title{PhD student in Genetics}
+\email{clemence.reda@inria.fr}
 \homepage{clreda.github.io}
-\address{UMR 1141, Bât. Bingen\\48, boulevard Sérurier\\}{75019 Paris}{France}
+\address{PROTECT UMR 1141, Point Jaune, Bât. Bingen\\48, boulevard Sérurier, 75019 Paris, France\\ \\}{}{}
 \extrainfo{\faGithub{ \href{https://www.github.com/clreda}{clreda}}}
 
 \begin{document}
 \makecvtitle
 
-\section{Education and qualifications}
-\cventry{2019 -- present}{PhD}{Université Paris Diderot, Inserm UMR 1141 and CNRS UMR 9189}{}{}{PhD in Genetics: \textbf{drug repurposing \emph{via} gene network analysis}, supervised by \href{http://neurodiderot.org/index.php/en/delahaye-en/}{Andrée Delahaye-Duriez} \& \href{http://chercheurs.lille.inria.fr/ekaufman/}{\'{E}milie Kaufmann}.\\}
-\cventry{2018 -- 2019}{Masters MVA}{ENS Paris-Saclay (former Ecole Normale Supérieure* de Cachan)}{}{}{Second year of \textit{Master Vision, Apprentissage (MVA)} diploma in Mathematics and Computer Science. \textbf{Subjects:} Biostatistics, Deep Learning, Game Theory, Graphs in Machine Learning, Mathematical Methods for Imaging, Modelling in Neurosciences, Object Recognition and Computer Vision, Predictions of Individual Sequences, Probabilistic Graphical Models, Reinforcement Learning, Topological Data Analysis.\\}
-\cventry{2017 -- 2018}{Internship}{Faculty of Mathematics, Informatics and Mechanics (University of Warsaw)}{}{}{Ten-month-long internship in research, included in the curriculum of ENS Paris-Saclay (former Ecole Normale Supérieure* de Cachan).\\}
-\cventry{2016 -- 2017}{Masters MPRI}{ENS Paris-Saclay (former Ecole Normale Supérieure* de Cachan)}{}{}{First year of \textit{Master Parisien de Recherche en Informatique (MPRI)} diploma in Computer Science. \textbf{Subjects}: Bioinformatics, Biology, Computer Vision, Convex Optimization, Machine Learning, Networks, Randomized Algorithms.\\}
-\cventry{2015 -- 2016}{Bachelors}{Ecole Normale Supérieure de Cachan and Université Paris Diderot}{}{}{Bachelors degree in Computer Science. \textbf{Subjects}: Algorithmics 101, Complexity/Computability, Databases, Discrete Mathematics, Formal Langages 101, Lambda-Calculus 101, Logics 101, Programmation, Systems.\\}
-\vspace{-0.5cm}
-* {\tiny{\textit{An \textbf{Ecole Normale Supérieure} is an elite school focused on theoretical research.}}}\\
+\vspace{-1.5cm}
+\section{Education}
+\cventry{2019 -- present}{Doctorat}{Université de Paris, Inserm UMR 1141 \& CNRS UMR 9189}{}{}{PhD in Genetics : \textbf{Drug Repurposing \emph{via} gene network analysis \& transcriptomic approaches}, supervised by  \textcolor{blue}{\href{http://neurodiderot.org/index.php/en/delahaye-en/}{Pr. Andr\'{e}e Delahaye-Duriez}} \& \textcolor{blue}{\href{http://chercheurs.lille.inria.fr/ekaufman/}{Dr. \'{E}milie Kaufmann}}.\\}
+\cventry{2018 -- 2019}{M2 Master Vision, Apprentissage (MVA)}{\'{E}cole Normale Supérieure$^*$ (ENS) Paris-Saclay}{(ex-\'{E}cole Normale Supérieure de Cachan)}{}{Master's degree in Machine Learning. (\emph{summa cum laude}, equiv.  GPA: $4.0$, no ranking)\\}
+\cventry{2017 -- 2018}{Année de Recherche Pr\'{e}doctorale \`{a} l'\'{E}tranger (ARPE)}{ENS Paris-Saclay}{}{}{Ten-month long research internship at the Faculty of Mathematics, Informatics and Mechanics (MIM UW) of the University of Warsaw (Poland) included in the curriculum of ENS Paris-Saclay. Proof-of-concept on the explicit inclusion of biological interactions in gene regulatory networks and its impact on inference and simulation of transcriptomic regulation, in research team \textbf{Regulomics} supervised by \textcolor{blue}{\href{http://bioputer.mimuw.edu.pl/~bartek/}{Dr. Bartek Wilczy\'{n}ksi}}.\\  (Final grade (equiv. GPA): $4.0$, no ranking)\\}
+\cventry{2016 -- 2017}{M1 Master Parisien en Recherche en Informatique (MPRI)}{ENS Paris-Saclay}{}{}{Master's degree in Computer Sciences. (\emph{summa cum laude}, equiv.  GPA: $4.0$, rank: $3/25$)\\}
+\cventry{2015 -- 2016}{L3 Licence informatique fondamentale ENS Cachan}{\'{E}cole Normale Supérieure de Cachan}{}{}{Bachelor's degree in Computer Sciences. (\emph{cum laude}, equiv.  GPA: $4.0$, rank: $10/26$)\\}
 
-\section{References}
-\cventry{Pr. Andr\'{é}e Delahaye-Duriez}{Head of group \textbf{Integrative Genomics}}{}{}{}{NeuroDiderot/Inserm unit 1141, Robert Debr\'{e} Hospital in Paris, France.}
-\cventry{Dr. Bartek Wilczy\'{n}ski}{Head of team \textbf{Regulomics}}{}{}{}{Faculty of Mathematics, Informatics and Mechanics (MIM UW) in Warsaw, Poland.}
-\cventry{Dr. Nicholas Luscombe}{Head of the \textbf{Bioinformatics and Computational Biology Laboratory} in the Francis Crick Institute and of the \textbf{Genomics and Regulatory Systems Unit} in the OIST}{}{}{}{Francis Crick Institute in London, United Kingdom, and Okinawa Institute of Science and Technology (OIST), in Onna, Japan.}
-\cventry{Dr. Macha Nikolski}{Head of the Bordeaux Bioinformatics Center \textbf{CBiB}}{}{}{}{Member of \textbf{MABioVis} team in LaBRI in Bordeaux, France.}
+$^*$ \small{\'{E}cole Normale Supérieures are selective French schools for research and teaching.}
 
-\newpage
+\begin{comment}
+\subsection{Formations doctorales}
+\cvitem{Sept. 2020\\ (3 jours)}{\textbf{FAIR 2020} : ``\textcolor{blue}{\href{https://ressources.france-bioinformatique.fr/fr/evenements/principes-fair-appliques-a-la-bioinformatique}Les principes FAIR appliqués à la bioinformatique}'' \hspace{5cm} (Institut Français de Bioinformatique, IFB)\\}
+\cvitem{2019\\(3 mois)}{\textbf{Pr. Walter Fontana} : ``\textcolor{blue}{\href{https://www.college-de-france.fr/site/walter-fontana/course-2019-2020.htm}{La biologie de l'information – un dialogue entre l'informatique et la biologie}}'' (Coll\`{e}ge de France)}
+\cvitem{Juil. 2019\\(2 semaines)}{\textbf{RLSS 2019} : ``\textcolor{blue}{\href{https://rlss.inria.fr/}{Reinforcement Learning Summer}}'' (Inria SCOOL)}
+\end{comment}
 
-\section{Conferences}
-\cventry{Jun. \& Sept. '18}{(\textit{accepted talk})}{BIT'18 and Workshop 6 of ECCB'18}{}{}{\underline{C. Réda}. \textbf{Automated Inference of Gene Regulatory Networks Using Explicit Regulatory Modules}.}
+\section{Previous Work Experiences}
 
-\section{Papers}
-\cventry{2019}{(\textit{review})}{Médecine/Sciences, 35(6-7), 515-518}{}{}{A. Delahaye-Duriez, \underline{C. Réda} \& P. Gressens. \textbf{Identification de cibles thérapeutiques et repositionnement de médicaments par analyses de réseaux géniques}.}
-\cventry{2020}{(\textit{research})}{Journal of Theoretical Biology, 486, 110091}{}{}{\underline{C. Réda} \& B. Wilczy\'{n}ski. \textbf{Automated Inference of Gene Regulatory Networks Using Explicit Regulatory Modules}.}
-\cventry{}{(\textit{review})}{Computational and Structural Biotechnology Journal, 18, 241-252}{}{}{\underline{C. Réda}, \'{E}. Kaufmann \& A. Delahaye-Duriez. \textbf{Machine learning applications in drug development}.}
+\subsection{Research internships}
+\cventry{2019\\(4 months)}{Teams \textbf{Integrative Genomics} (PROTECT UMR 1141) \& \textbf{SCOOL/CRIStAL} (UMR 9189)}{Supervision by \textcolor{blue}{\href{http://neurodiderot.org/index.php/en/delahaye-en/}{Pr. Andr\'{e}e Delahaye-Duriez}} and \textcolor{blue}{\href{http://chercheurs.lille.inria.fr/ekaufman/}{Dr. \'{E}milie Kaufmann}}}{Paris \& Villeneuve d'Ascq, France}{}{Design of a drug repurposing method through a bandit algorithm combined with the prediction of transcriptomic states by a gene regulatory network. Application to the prediction of new anti-epileptics.\\}
+\cventry{2017\\(5 months)}{Team \textbf{Genomics and Regulatory Systems Unit, Okinawa Institute of Science and Technology (OIST)}}{Supervision by \textcolor{blue}{\href{https://www.crick.ac.uk/research/labs/nicholas-luscombe}{Dr. Nicholas Luscombe}} and \textcolor{blue}{\href{https://www.ebi.ac.uk/about/people/garth-ilsley}{Dr. Garth Ilsley}}}{Onna-son, Japon}{}{Design and implementation of a single-cell RNA sequencing clustering method taking into account intergene expression dependencies using a probabilistic model~; implementation in R Shiny of a web application for the visualisation and preliminary analysis of single-cell RNA sequencing data. Application to transcriptomic data analysis in ciona (\emph{Ciona intestinalis}).\\}
+\cventry{2016\\(2 months)}{Centre de Bioinformatique de Bordeaux (CBiB)}{Supervision by  \textcolor{blue}{\href{https://www.labri.fr/perso/macha/}{Dr. Macha Nikolski}} and le \textcolor{blue}{\href{https://mabiovis.labri.fr/#team}{Dr. Mathieu Raffinot}}}{Bordeaux, France}{}{Design and implementation of compared analyses of taxonomic trees built from metagenomic data. Application to the analysis of data from intestinal guts of children afflicted with cystic fibrosis at H\^{o}pital Pellegrin in Bordeaux.\\}
 
-\section{Professional Experience}
-\subsection{Internships}
-\cventry{2019}{Internship in Bioinformatics}{\textbf{Integrative Genomics}, supervised by Pr. A. Delahaye-Duriez and Dr. \'{E}milie Kaufmann}{Paris, France}{4 months}{Design of a method to guide drug repurposing via gene regulation network building and analysis.\\}
-\cventry{2017 -- 2018}{Internship in Bioinformatics}{\textbf{Regulomics}, supervised by Dr. B. Wilczy\'{n}ski}{Warsaw, Poland}{10 months}{Theoretical work to include explicit specific biological connections in gene regulatory networks, and study their influence on inference and simulation of such biological models.\\}
-\cventry{2017}{Internship in Bioinformatics}{\textbf{Genomics and Regulatory Systems Unit}, supervised by Dr. N. Luscombe and Dr. G. Ilsley}{Onna-son, Japan}{5 months}{Implementation in R of an application for single-cell RNA-sequencing data analysis, design and implementation of a novel algorithm for cell clustering.\\}
-\cventry{2016}{Internship in Bioinformatics}{\textbf{CBiB}, supervised by Dr. M. Nikolski and Dr. M. Raffinot}{Bordeaux, France}{2 months}{Compared analysis of taxonomic trees in a medical setting: improvement of the analysis of metagenomic data in medical studies: \textit{TaxoTree}, \textit{TaxoCluster}, \textit{TaxoClassifier} softwares in Python.\\}
+\subsection{Teaching \& Mentoring Experiences}
+\cventry{2020 -- 2021\\(64 hours a year)}{Doctorant Contractuel avec Mission d'Enseignement (DCME) (Teaching Assistant)}{Biostatistics, programming and bioinformatics in Bachelors and Masters' degrees}{Universit\'{e} de Paris, UFR Sciences de la Vie}{}{}
+\cventry{2020\\ (6 months)}{Supervision of a Masters's degree internship}{Joint supervision of a Masters intern on the analysis of targeted single-cell RNA sequencing data of inflammatory microglia in development}{Inserm}{}{}
+\cventry{2019 -- 2020\\(2 months)}{Supervision of a Masters's degree project}{Proposal of a project on drug repurposing based on collaborative filtering, and joint supervision of a Masters student in the course \textbf{Graphs in Machine Learning} in masters \textbf{MVA} (2020)}{ENS Paris-Saclay}{}{}
 
-\section{Skills}
-\subsection{Programming languages}
-\cvitem{}{R, Python 2 and 3, Matlab/Octave, Bash, OCaml, Javascript/Typescript, C/C++, PHP, Haskell, Assembler x86.}
-\subsection{Web Programming}
-\cvitem{Frameworks}{Django, Jekyll/Hexo, R Shiny.}
-\cvitem{Languages}{HTML/CSS5.}
-\subsection{Databases}
-\cvitem{}{MySQL, MongoDB, NeDB.\\}
+\section{Grants}
+\cventry{2019}{Research program for project REPOS}{Inserm-CNRS ``\textcolor{blue}{\href{https://www.cnrs.fr/mi/IMG/pdf/sante_numerique_texte_aap.pdf}{Digital health challenge}}'' AAP 2019 (1 year)}{}{}{}
+\cventry{2019 -- 2022}{PhD scholarship}{Contrat Doctoral Sp\'{e}cifique aux Normaliens (CDSN) 2019}{ENS.X19RDTME-SACLAY19-22 (3 years)}{}{}
 
-\newpage
+\section{Research}
+\subsection{Papers}
+\cventry{2021}{Top-$m$ identification for linear bandits}{\underline{C. Réda}, \'{E}. Kaufmann \& A. Delahaye-Duriez}{[\textit{research, \textcolor{blue}{\href{https://aistats.org/aistats2021/accepted.html}{accepted}}}]}{Proceedings of the $24^{th}$ International Conference on Artificial Intelligence and Statistics 2021 (AISTATS 2021), 130. Impact factor : 9.9}{}{}
+\cventry{2020}{Machine learning applications in drug development}{\underline{C. Réda}, \'{E}. Kaufmann \& A. Delahaye-Duriez}{[\textit{review}]}{Computational and Structural Biotechnology Journal, 18, 241-252, DOI : \textcolor{blue}{\href{https://doi.org/10.1016/j.csbj.2019.12.006}{10.1016/j.csbj.2019.12.006}}. Impact factor : 6.0}{}
+\cventry{}{Automated inference of gene regulatory networks using explicit regulatory modules}{\underline{C. Réda} \& B. Wilczy\'{n}ski}{[\textit{research}]}{Journal of Theoretical Biology, 486, DOI : \textcolor{blue}{\href{https://doi.org/10.1016/j.jtbi.2019.110091}{10.1016/j.jtbi.2019.110091}}. Impact factor : 2.3}{}
+\cventry{2019}{Identification de cibles thérapeutiques et repositionnement de médicaments par analyses de réseaux géniques}{A. Delahaye-Duriez, \underline{C. Réda} \& P. Gressens}{[\textit{review}]}{M\'{e}decine/Sciences, 35(6-7), 515-518, DOI : \textcolor{blue}{\href{https://doi.org/10.1051/medsci/2019108}{10.1051/medsci/2019108}}. Impact factor : 0.7}{}
+
+\subsection{Talks}
+\cventry{April 2021}{AISTATS 2021}{\underline{C. Réda}.
+\textnormal{Top-$m$ identification for linear bandits (poster)}}{}{}{}
+\cventry{October 2020}{Journ\'{e}es de recherche respiratoire (J2R) 2020}{\underline{C. Réda}. \textnormal{Transcriptome of neurons in a model of Congenital Central Hypoventilation Syndrome (poster)}. Conference has been cancelled due to the pandemic}{}{}{}
+\cventry{July 2020}{Journées Ouvertes de Biologie, Informatique et Mathématique (JOBIM) 2020}{\underline{C. Réda}. \textnormal{Automated inference of gene regulatory networks using explicit regulatory modules (oral)}}{}{}{}
+\cventry{Sept. 2018}{Workshop 6, European Conference on Computational Biology (ECCB) 2018}{\underline{C. Réda}. \textnormal{Automated inference of gene regulatory networks using explicit regulatory modules (oral)}}{}{}{}
+\cventry{June 2018}{BioInformatics in Toru\'{n} (BIT) 2018}{\underline{C. Réda}. \textnormal{Automated inference of gene regulatory networks using explicit regulatory modules (oral)}}{}{}{}
+
+\section{Commitment to popularization of sciences and law making}
+\subsection{Popularization of sciences}
+\cvitem{December 2016 -- Sept. 2018}{\textbf{Published on} \textcolor{blue}{\href{https://tryalgo.org/fr/}{Tryalgo}} [in French] : series of blog posts on known algorithms with concrete applications, aimed at high school and college students (approx. $2,400$ unique monthly users~; two of these posts constitute the Top-$2$ most visited pages.} 
+\cvitem{October2016}{\textbf{Published on} \textcolor{blue}{\href{https://www.lemonde.fr/blog/binaire/2016/10/17/a-p-b-la-vie-apres-le-bac/}{Binaire}} (blog on Computer Science affiliated with the newspaper Le Monde) \textbf{and} \textcolor{blue}{\href{https://theconversation.com/apb-la-vie-apres-le-bac-66848}{The Conversation}} [in French] : ``A.P.B. : La vie après le bac'' (conjointy written with \textcolor{blue}{\href{https://www.inria.fr/en/serge-abiteboul}{Serge Abiteboul}}). Explanation of the algorithm of Gale-Shapley which has been in use in a previous version of the French national web application for high school students' applications to college} 
+\subsection{Popularization of law-making}
+\cvitem{December 2016 -- Sept. 2018}{\textbf{Published on} \textcolor{blue}{\href{https://reflechir.fr/}{R\'{e}fl\'{e}chir.fr}} [in French] : series of blog posts on laws passed since 2017 in France: explanation of their content and their consequences ($534$ followers on February, $24$ $2021$).} 
 
 \section{Language proficiency}
 \cvitemwithcomment{French}{C2}{Native speaker.}
