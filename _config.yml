@@ -11,7 +11,7 @@ plugins:
 
 host: 0.0.0.0
 port: 4080
-google_analytics: UA-123473849-1
+google_analytics: G-KKE9ZM79MV #UA-123473849-1
 
 plugins: ["jekyll-seo-tag"]
 
