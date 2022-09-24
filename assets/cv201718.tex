@@ -6,36 +6,59 @@
 \usepackage{fontawesome}
 \usepackage{comment}
 \usepackage[dvipsnames]{xcolor}
-\moderncvtheme[blue]{classic}
-\moderncvstyle{classic}
+%\moderncvtheme[blue]{classic}
+%\moderncvstyle{classic}
 %\moderncvstyle{oldstyle}
-%\moderncvstyle{banking}
+\moderncvstyle{banking}
 \usepackage[unicode]{hyperref}
-\moderncvcolor{red}
+\moderncvcolor{blue}
 \usepackage{CJKutf8}
 \setlength{\hintscolumnwidth}{2.5cm}
 
-\firstname{\texttt{\textcolor{red}{Cl\'{e}mence}}}
-\familyname{\texttt{\textcolor{red}{R\'{e}da}}}
-\title{PhD student in Genetics}
-\email{clemence.reda@inria.fr}
-\homepage{clreda.github.io}
-\address{PROTECT UMR 1141, Point Jaune, Bât. Bingen\\48, boulevard Sérurier, 75019 Paris, France\\ \\}{}{}
+\firstname{\texttt{\textcolor{blue}{Cl\'{e}mence}}}
+\familyname{\texttt{\textcolor{blue}{R\'{e}da}}}
+\title{PhD student in Genetics @ Universit\'{e} Paris Cit\'{e} {\tiny (24/09/2022)}}
+\email{clemence.reda@inserm.fr}
+\homepage{https://clreda.github.io}
+\address{PROTECT UMR 1141, Point Jaune, Bât. Bingen | 48, boulevard Sérurier, 75019 Paris, France\\ \\}{}{}
 \extrainfo{\faGithub{ \href{https://www.github.com/clreda}{clreda}}}
 
 \begin{document}
 \makecvtitle
 
 \vspace{-1.5cm}
-\section{Education}
-\cventry{2019 -- present}{Doctorat}{Université de Paris, Inserm UMR 1141 \& CNRS UMR 9189}{}{}{PhD in Genetics : \textbf{Combination of gene regulatory
-networks and sequential machine learning for drug repurposing}, supervised by  \textcolor{blue}{\href{http://neurodiderot.org/index.php/en/delahaye-en/}{Pr. Andr\'{e}e Delahaye-Duriez}} \& \textcolor{blue}{\href{http://chercheurs.lille.inria.fr/ekaufman/}{Dr. \'{E}milie Kaufmann}}.\\}
-\cventry{2018 -- 2019}{M2 Master Vision, Apprentissage (MVA)}{\'{E}cole Normale Supérieure$^*$ (ENS) Paris-Saclay}{(ex-\'{E}cole Normale Supérieure de Cachan)}{}{Master's degree in Machine Learning. (\emph{summa cum laude}, equiv.  GPA: $4.0$, no ranking)\\}
-\cventry{2017 -- 2018}{Année de Recherche Pr\'{e}doctorale \`{a} l'\'{E}tranger (ARPE)}{ENS Paris-Saclay}{}{}{Ten-month long research internship at the Faculty of Mathematics, Informatics and Mechanics (MIM UW) of the University of Warsaw (Poland) included in the curriculum of ENS Paris-Saclay. Proof-of-concept on the explicit inclusion of biological interactions in gene regulatory networks and its impact on inference and simulation of transcriptomic regulation, in research team \textbf{Regulomics} supervised by \textcolor{blue}{\href{http://bioputer.mimuw.edu.pl/~bartek/}{Dr. Bartek Wilczy\'{n}ksi}}.\\  (Final grade (equiv. GPA): $4.0$, no ranking)\\}
-\cventry{2016 -- 2017}{M1 Master Parisien en Recherche en Informatique (MPRI)}{ENS Paris-Saclay}{}{}{Master's degree in Computer Sciences. (\emph{summa cum laude}, equiv.  GPA: $4.0$, rank: $3/25$)\\}
-\cventry{2015 -- 2016}{L3 Licence informatique fondamentale ENS Cachan}{\'{E}cole Normale Supérieure de Cachan}{}{}{Bachelor's degree in Computer Sciences. (\emph{cum laude}, equiv.  GPA: $4.0$, rank: $10/26$)\\}
+\section{Biography \& Major Achievements}
 
-$^*$ \small{\'{E}cole Normale Supérieures are selective French schools for research and teaching.}
+The researcher’s research journey led her to consider several aspects of drug development and repurposing, and got her acclimated to working in an interdisciplinary environment. In particular, her PhD was about the integration of a model of gene regulation into a drug repurposing pipeline, in order to properly assess the efficacy of a drug. In order to deal with the intrinsically stochastic regulatory mechanisms, she has designed a recommender system with multi-armed bandit algorithms which can deal with this stochasticity to estimate the most promising drug candidates in a sample-efficient way:
+\begin{enumerate}
+    \item[\textbf{\textcolor{blue}{1.}}] The researcher has worked on a method to automatically build disease-specific regulatory networks. This method allowed to retrieve in a transparent and reproducible way a cell-line-specific network from open-access databases. This method was applied to brain cell lines, on a subset of genes strongly coexpressed with epileptic phenotypes. She introduced for the first time a method which incorporates regulatory cascades and disease-specific transcriptomic information to detect master regulators, which can be targeted for better understanding the mechanisms behind the disease. This work led to a publication in the proceedings of the $20^\textnormal{th}$ \textit{International Conference on Computational Methods in Systems Biology} (\textbf{CMSB} $2022$).
+    \item[\textbf{\textcolor{blue}{2.}}] Multi-armed bandit algorithms were introduced by the researcher for the first time for drug repurposing, by tackling the problem of the identification of the $N$ best arms/treatments in a set of $K$ ones, using the known side information about these arms. In practice, this information is set of the drug signatures built upon transcriptomic data from the LINCS L$1000$ database. She introduced and studied a generic family of algorithms which solve this identification problem, that encompasses all prior adaptive sampling-based algorithms in the literature. Her co-authors and herself were able to study theoretically and empirically the effect of the model structure, especially linear models, on the performance of the algorithms. This work was published in the proceedings of the $24^\textnormal{th}$ \textit{International Conference on Artificial Intelligence and Statistics} (\textbf{AISTATS} $2021$). This problem was tackled for non-linear models in a subsequent work published at the \textit{Advances in Neural Information Processing System Conference} (\textbf{NeurIPS} $2021$, one of the most prestigious conferences in machine learning) with other co-authors.
+    \item[\textbf{\textcolor{blue}{3.}}] She has contributed to the design of a framework integrating non-coding elements in gene regulatory networks. These non-coding elements were shown both theoretically and empirically to effectively structure and constraint the regulatory dynamics across the network, and increase the interpretability and understanding the regulatory mechanisms that lead to a specific transcriptomic phenotype. The corresponding work was published in the \textit{Journal of Theoretical Biology} in $2020$.
+\end{enumerate}
+\vspace{-0.1cm}
+%% ADD TOPICS
+\section{Education}
+\cventry{09/2019 -- 09/2022}{PhD in Genetics}{Universit\'{e} Paris Cit\'{e}, Inserm UMR 1141 \& CNRS UMR 9189}{}{}{Doctorate Degree in Science. Title: \textbf{Combination of gene regulatory
+networks and sequential machine learning for drug repurposing}, supervised by  \textcolor{blue}{\href{http://neurodiderot.org/index.php/en/delahaye-en/}{Pr. Andr\'{e}e Delahaye-Duriez}} (Inserm UMR 1141) \& \textcolor{blue}{\href{http://chercheurs.lille.inria.fr/ekaufman/}{Dr. \'{E}milie Kaufmann}} (CNRS UMR 9189).\\\textbf{\textit{Viva}: 09/09/2022}.\\}
+\cventry{09/2018 -- 09/2019}{M2 Master Vision, Apprentissage (MVA)}{\'{E}cole Normale Supérieure$^\dagger$ (ENS) Paris-Saclay}{(ex-\'{E}cole Normale Supérieure de Cachan)}{}{Master's degree in Machine Learning. (\emph{summa cum laude}, Grade: $16.17/20$, no ranking)\\}
+\cventry{09/2016 -- 09/2017}{M1 Master Parisien en Recherche en Informatique (MPRI)}{ENS Paris-Saclay}{}{}{Master's degree in Computer Sciences. (\emph{summa cum laude}, Grade: $16.72/20$, rank: $3/25$)\\}
+\cventry{09/2015 -- 09/2016}{L3 Licence informatique fondamentale ENS Cachan}{\'{E}cole Normale Supérieure de Cachan}{}{}{Bachelor's degree in Computer Sciences. (\emph{cum laude}, Grade: $14.64/20$, rank: $10/26$)\\}
+$^\dagger$ \small{\textit{\'{E}cole Normale Supérieures are selective French schools for research and teaching.}}
+
+\section{Professional Experience}
+\subsection{Research Internships}
+
+\cventry{03/2019--08/2019 ($4$ months)}{\textbf{Neurodiderot} (UMR 1141) \& \textbf{SCOOL} (UMR 9189)}{Master internship | \textcolor{blue}{\href{http://neurodiderot.org/index.php/en/delahaye-en/}{Pr. Andr\'{e}e Delahaye-Duriez}} \& \textcolor{blue}{\href{http://chercheurs.lille.inria.fr/ekaufman/}{Dr. \'{E}milie Kaufmann}}}{Paris, France}{}{Design of a drug repurposing method through a bandit algorithm combined with the prediction of transcriptomic states by a gene regulatory network. Application to the prediction of new anti-epileptics.\\\textbf{Skills} Interdisciplinary Collaboration · Interdisciplinary Research · Statistical Learning · Project Design · Bioinformatics\\}
+\cventry{10/2017--07/2018 ($10$ months)}{\textbf{Regulomics team} (MIM UW)}{Predoctoral internship | \textcolor{blue}{\href{http://bioputer.mimuw.edu.pl/~bartek/}{Dr. Bartek Wilczy\'{n}ksi}}}{Warsaw, Poland}{}{Proof-of-concept on the explicit inclusion of biological interactions in gene regulatory networks and its impact on inference and simulation of transcriptomic regulation. Led to a publication in Journal of Theoretical Biology (DOI : \textcolor{blue}{\href{http://doi.org/10.1016/j.jtbi.2019.110091}{10.1016/j.jtbi.2019.110091}}).\\\textbf{Skills} Network Analysis · Epigenetics · Python (Programming Language) · Systems Biology · Scientific Presentation\\}
+\cventry{02/2017--07/2017 ($5$ months)}{\textbf{Genomics and Regulatory Systems Unit} (OIST)}{Master internship | \textcolor{blue}{\href{https://www.crick.ac.uk/research/labs/nicholas-luscombe}{Dr. Nicholas Luscombe}} \& \textcolor{blue}{\href{https://www.ebi.ac.uk/about/people/garth-ilsley}{Dr. Garth Ilsley}}}{Onna-son, Japon}{}{Design and implementation of a single-cell RNA sequencing clustering method taking into account intergene expression dependencies using a probabilistic model~; implementation in R Shiny of a web application for the visualisation and preliminary analysis of single-cell RNA sequencing data. Application to transcriptomic data analysis in ciona (\emph{Ciona intestinalis}).\\\textbf{Skills} Benchmarking · R Shiny · Unsupervised Learning · Data Visualization · Python (Programming Language)\\}
+\cventry{05/2016--07/2016 ($2$ months)}{\textbf{Centre de Bioinformatique de Bordeaux} (Universit\'{e} de Bordeaux)}{Bachelor internship | \textcolor{blue}{\href{https://www.labri.fr/perso/macha/}{Dr. Macha Nikolski}} \& \textcolor{blue}{\href{https://mabiovis.labri.fr/#team}{Dr. Mathieu Raffinot}}}{Bordeaux, France}{}{Design and implementation of compared analyses of taxonomic trees built from metagenomic data. Application to the analysis of data from intestinal guts of children afflicted with cystic fibrosis at H\^{o}pital Pellegrin in Bordeaux.\\\textbf{Skills} Metagenomics · Phylogenetics · Supervised Learning · Unsupervised Learning · Python (Programming Language)\\}
+\subsection{Teaching \& Mentoring Experiences}
+%% ADD TOPICS + DEGREE
+\cventry{09/2020--09/2021 ($64$ hours)}{Doctorant Contractuel avec Mission d'Enseignement (DCME) (Teaching Assistant)}{Biostatistics, programming and bioinformatics}{Universit\'{e} Paris Cit\'{e}}{}{\textbf{References:} \textcolor{blue}{\href{https://www.researchgate.net/profile/Anne-Badel}{Dr. Anne Badel}} \& \textcolor{blue}{\href{https://www.researchgate.net/profile/Olivier-Taboureau-2}{Pr. Olivier Taboureau}}}
+\vspace{0.2cm}
+\cventry{02/2020--07/2020 ($6$ months)}{Joint supervision of Adrien Dufour with \textcolor{blue}{\href{http://neurodiderot.org/index.php/en/delahaye-en/}{Pr. Andr\'{e}e Delahaye-Duriez}}}{Supervision of a Master internship}{Inserm Neurodiderot}{}{Identification of functional families of migroglia cells from targeted single-cell RNA sequencing data of inflammatory microglia at a developmental stage.}
+\vspace{0.2cm}
+\cventry{11/2019--01/2020 ($2$ months)}{Joint supervision of Ariane Alix with \textcolor{blue}{\href{http://chercheurs.lille.inria.fr/ekaufman/}{Dr. \'{E}milie Kaufmann}}}{Supervision of a Masters's degree project}{ENS Paris-Saclay}{}{Proposal of a project on the adaptation of a published drug-target prediction method to drug repurposing using collaborative filtering in the course \textit{Graphs in Machine Learning} taught by \textcolor{blue}{\href{https://misovalko.github.io/}{Dr. Micha\l{} Valko}} in Master Vision Apprentissage (\textbf{MVA} $2020$).}
 
 \begin{comment}
 \subsection{Formations doctorales}
@@ -44,52 +67,60 @@ $^*$ \small{\'{E}cole Normale Supérieures are selective French schools for rese
 \cvitem{Juil. 2019\\(2 semaines)}{\textbf{RLSS 2019} : ``\textcolor{blue}{\href{https://rlss.inria.fr/}{Reinforcement Learning Summer}}'' (Inria SCOOL)}
 \end{comment}
 
-\section{Previous Work Experiences}
-
-\subsection{Research internships}
-\cventry{2019\\(4 months)}{Teams \textbf{Integrative Genomics} (PROTECT UMR 1141) \& \textbf{SCOOL/CRIStAL} (UMR 9189)}{Supervision by \textcolor{blue}{\href{http://neurodiderot.org/index.php/en/delahaye-en/}{Pr. Andr\'{e}e Delahaye-Duriez}} and \textcolor{blue}{\href{http://chercheurs.lille.inria.fr/ekaufman/}{Dr. \'{E}milie Kaufmann}}}{Paris \& Villeneuve d'Ascq, France}{}{Design of a drug repurposing method through a bandit algorithm combined with the prediction of transcriptomic states by a gene regulatory network. Application to the prediction of new anti-epileptics.\\}
-\cventry{2017\\(5 months)}{Team \textbf{Genomics and Regulatory Systems Unit, Okinawa Institute of Science and Technology (OIST)}}{Supervision by \textcolor{blue}{\href{https://www.crick.ac.uk/research/labs/nicholas-luscombe}{Dr. Nicholas Luscombe}} and \textcolor{blue}{\href{https://www.ebi.ac.uk/about/people/garth-ilsley}{Dr. Garth Ilsley}}}{Onna-son, Japon}{}{Design and implementation of a single-cell RNA sequencing clustering method taking into account intergene expression dependencies using a probabilistic model~; implementation in R Shiny of a web application for the visualisation and preliminary analysis of single-cell RNA sequencing data. Application to transcriptomic data analysis in ciona (\emph{Ciona intestinalis}).\\}
-\cventry{2016\\(2 months)}{Centre de Bioinformatique de Bordeaux (CBiB)}{Supervision by  \textcolor{blue}{\href{https://www.labri.fr/perso/macha/}{Dr. Macha Nikolski}} and le \textcolor{blue}{\href{https://mabiovis.labri.fr/#team}{Dr. Mathieu Raffinot}}}{Bordeaux, France}{}{Design and implementation of compared analyses of taxonomic trees built from metagenomic data. Application to the analysis of data from intestinal guts of children afflicted with cystic fibrosis at H\^{o}pital Pellegrin in Bordeaux.\\}
-
-\subsection{Teaching \& Mentoring Experiences}
-\cventry{2020 -- 2021\\(64 hours a year)}{Doctorant Contractuel avec Mission d'Enseignement (DCME) (Teaching Assistant)}{Biostatistics, programming and bioinformatics}{Universit\'{e} de Paris, UFR Sciences de la Vie}{}{}
-\cventry{2020\\ (6 months)}{Supervision of a Masters's degree internship}{Joint supervision of a Masters intern on the analysis of targeted single-cell RNA sequencing data of inflammatory microglia in development}{Inserm}{}{}
-\cventry{2019 -- 2020\\(2 months)}{Supervision of a Masters's degree project}{Proposal of a project on drug repurposing based on collaborative filtering, and joint supervision of a Masters student in the course \textbf{Graphs in Machine Learning} in masters \textbf{MVA} (2020)}{ENS Paris-Saclay}{}{}
-
-\section{Grants}
-\cventry{2019}{Research program for project REPOS}{Inserm-CNRS ``\textcolor{blue}{\href{https://www.cnrs.fr/mi/IMG/pdf/sante_numerique_texte_aap.pdf}{Digital health challenge}}'' AAP 2019 (1 year)}{}{}{}
-\cventry{2019 -- 2022}{PhD scholarship}{Contrat Doctoral Sp\'{e}cifique aux Normaliens (CDSN) 2019}{ENS.X19RDTME-SACLAY19-22 (3 years)}{}{}
+\section{Funding as Principal Recipient}
+\cventry{2019--2022 ($3$ years)}{PhD fellowship}{Contrat Doctoral Sp\'{e}cifique aux Normaliens (CDSN) 2019}{French Ministry of Higher Education \& Research}{}{Around $122$ fellowships (less than $50$\% of the candidates) are granted yearly through a selective process based on scholastic records, recommendation letters, and the project proposal.\\}
+\cventry{2017,2018 ($2$ years)}{Scholarship}{\'{E}l\`{e}ve fonctionnaire stagiaire de l’ENS Cachan}{French Ministry of Higher Education \& Research}{}{Intern civil servant student at ENS de Cachan (Second concours: oral admission test in Computer Sciences, rank: 2, 4 positions every year at national level). Caesura for personal convenience from 01/09/2017 to 31/08/2018.\\}
 
 \section{Research}
-\subsection{Papers}
-\cventry{2021}{Dealing With Misspecification In Fixed-Confidence Linear Top-m Identification}{\underline{C. Réda}, {A}. Tirinzoni \& R. Degenne}{[\textit{research, \textcolor{blue}{\href{https://neurips.cc/Conferences/2021/Schedule?type=Poster}{accepted}}}]}{Proceedings of the $35^{th}$ Conference on Neural Information Processing Systems (NeurIPS 2021), HAL: \textcolor{blue}{\href{https://hal.archives-ouvertes.fr/hal-03409205}{03409205}}. Impact factor : 33.5}{}{}
-\cventry{}{Top-$m$ identification for linear bandits}{\underline{C. Réda}, \'{E}. Kaufmann \& A. Delahaye-Duriez}{[\textit{research}]}{Proceedings of the $24^{th}$ International Conference on Artificial Intelligence and Statistics 2021 (AISTATS 2021), 130, HAL: \textcolor{blue}{\href{https://hal.archives-ouvertes.fr/hal-03172145}{03172145}}. Impact factor : 9.9}{}{}
-\cventry{2020}{Machine learning applications in drug development}{\underline{C. Réda}, \'{E}. Kaufmann \& A. Delahaye-Duriez}{[\textit{review}]}{Computational and Structural Biotechnology Journal, 18, 241-252, DOI : \textcolor{blue}{\href{https://doi.org/10.1016/j.csbj.2019.12.006}{10.1016/j.csbj.2019.12.006}}. Impact factor : 6.0}{}
-\cventry{}{Automated inference of gene regulatory networks using explicit regulatory modules}{\underline{C. Réda} \& B. Wilczy\'{n}ski}{[\textit{research}]}{Journal of Theoretical Biology, 486, DOI : \textcolor{blue}{\href{https://doi.org/10.1016/j.jtbi.2019.110091}{10.1016/j.jtbi.2019.110091}}. Impact factor : 2.3}{}
-\cventry{2019}{Identification de cibles thérapeutiques et repositionnement de médicaments par analyses de réseaux géniques}{A. Delahaye-Duriez, \underline{C. Réda} \& P. Gressens}{[\textit{review}]}{M\'{e}decine/Sciences, 35(6-7), 515-518, DOI : \textcolor{blue}{\href{https://doi.org/10.1051/medsci/2019108}{10.1051/medsci/2019108}}. Impact factor : 0.7}{}
 
-\subsection{Talks}
-\cventry{February 2022}{DSABNS 2022}{\underline{C. Réda}.
-\textnormal{Gene network oriented drug discovery: automated inference of Boolean networks for drug target prediction (talk)}}{}{}{}
-\cventry{December 2021}{NeurIPS 2021}{\underline{C. Réda}.
-\textnormal{Dealing With Misspecification In Fixed-Confidence Linear Top-m Identification (poster)}}{}{}{}
-\cventry{April 2021}{AISTATS 2021}{\underline{C. Réda}.
-\textnormal{Top-$m$ identification for linear bandits (poster)}}{}{}{}
-\cventry{October 2020}{Journ\'{e}es de recherche respiratoire (J2R) 2020}{\underline{C. Réda}. \textnormal{Transcriptome of neurons in a model of Congenital Central Hypoventilation Syndrome (poster)}. Conference has been cancelled due to the pandemic}{}{}{}
-\cventry{July 2020}{Journées Ouvertes de Biologie, Informatique et Mathématique (JOBIM) 2020}{\underline{C. Réda}. \textnormal{Automated inference of gene regulatory networks using explicit regulatory modules (oral)}}{}{}{}
-\cventry{Sept. 2018}{Workshop 6, European Conference on Computational Biology (ECCB) 2018}{\underline{C. Réda}. \textnormal{Automated inference of gene regulatory networks using explicit regulatory modules (oral)}}{}{}{}
-\cventry{June 2018}{BioInformatics in Toru\'{n} (BIT) 2018}{\underline{C. Réda}. \textnormal{Automated inference of gene regulatory networks using explicit regulatory modules (oral)}}{}{}{}
+\subsection{Peer-Reviewed Scientific Journals}
+\vspace{0.1cm}\textcolor{blue}{\textbf{2021}}\vspace{0.2cm}\\
+\cventry{}{}{Machine learning applications in drug development\\\underline{C. Réda}, \'{E}. Kaufmann \& A. Delahaye-Duriez}{}{Computational and Structural Biotechnology Journal, 18:241-252, DOI: \textcolor{blue}{\href{https://doi.org/10.1016/j.csbj.2019.12.006}{10.1016/j.csbj.2019.12.006}}}{}{}{}{}
+\vspace{0.1cm}\textcolor{blue}{\textbf{2020}}\vspace{0.2cm}\\
+\cventry{}{}{Automated inference of gene regulatory networks using explicit regulatory modules\\\underline{C. Réda} \& B. Wilczy\'{n}ski}{}{Journal of Theoretical Biology, 486:110091, DOI: \textcolor{blue}{\href{https://doi.org/10.1016/j.jtbi.2019.110091}{10.1016/j.jtbi.2019.110091}}}{}{}{}{}
+\vspace{0.1cm}\textcolor{blue}{\textbf{2019}}\vspace{0.2cm}\\
+\cventry{}{}{Identification de cibles thérapeutiques et repositionnement de médicaments par analyses de réseaux géniques\\ A. Delahaye-Duriez, \underline{C. Réda} \& P. Gressens}{}{M\'{e}decine/Sciences, 35:515-518, DOI: \textcolor{blue}{\href{https://doi.org/10.1051/medsci/2019108}{10.1051/medsci/2019108}}}{}{}{}{}
 
-\section{Commitment to popularization of sciences and law making}
-\subsection{Popularization of sciences}
-\cvitem{December 2016 -- Sept. 2018}{\textbf{Published on} \textcolor{blue}{\href{https://tryalgo.org/fr/}{Tryalgo}} [in French] : series of blog posts on known algorithms with concrete applications, aimed at high school and college students (approx. $2,400$ unique monthly users~; two of these posts constitute the Top-$2$ most visited pages.} 
-\cvitem{October2016}{\textbf{Published on} \textcolor{blue}{\href{https://www.lemonde.fr/blog/binaire/2016/10/17/a-p-b-la-vie-apres-le-bac/}{Binaire}} (blog on Computer Science affiliated with the newspaper Le Monde) \textbf{and} \textcolor{blue}{\href{https://theconversation.com/apb-la-vie-apres-le-bac-66848}{The Conversation}} [in French] : ``A.P.B. : La vie après le bac'' (conjointy written with \textcolor{blue}{\href{https://www.inria.fr/en/serge-abiteboul}{Serge Abiteboul}}). Explanation of the algorithm of Gale-Shapley which has been in use in a previous version of the French national web application for high school students' applications to college} 
-\subsection{Popularization of law-making}
-\cvitem{December 2016 -- Sept. 2018}{\textbf{Published on} \textcolor{blue}{\href{https://reflechir.fr/}{R\'{e}fl\'{e}chir.fr}} [in French] : series of blog posts on laws passed since 2017 in France: explanation of their content and their consequences ($534$ followers on February, $24$ $2021$).} 
+\subsection{Peer-Reviewed Conference Proceedings}
+\vspace{0.1cm}\textcolor{blue}{\textbf{2022}}\vspace{0.2cm}\\
+\cventry{}{}{Near-optimal Collaborative Learning in Bandits\\\underline{C. Réda}, S. Vakili, {\'{E}}. Kaufmann}{}{Proceedings of the $36^{\textnormal{th}}$ Conference on Advances in Neural Information Processing Systems (\textbf{NeurIPS} $2022$) [\textit{in press}]}{}{}{}{}
+\cventry{}{}{Prioritization of Candidate Genes Through Boolean Networks\\\underline{C. Réda}, {A}. Delahaye-Duriez}{}{Proceedings of the $20^{\textnormal{th}}$ International Conference on Computational Methods in Systems Biology (\textbf{CMSB} $2022$)}{}{}{}{Springer:89-121 [\textcolor{blue}{\textit{Best Student Paper Award}}]\\}
+\vspace{0.2cm}\textcolor{blue}{\textbf{2021}}\vspace{0.2cm}\\
+\cventry{}{}{Dealing With Misspecification In Fixed-Confidence Linear Top-m Identification\\\underline{C. Réda}, {A}. Tirinzoni \& R. Degenne}{}{Proceedings of the $35^{\textnormal{th}}$ Conference on Neural Information Processing Systems (\textbf{NeurIPS} 2021), 34, HAL: \textcolor{blue}{\href{https://hal.archives-ouvertes.fr/hal-03409205}{03409205}}}{}{}{}{}
+\cventry{}{}{Top-$m$ identification for linear bandits\\\underline{C. Réda}, \'{E}. Kaufmann \& A. Delahaye-Duriez}{}{Proceedings of the $24^{\textnormal{th}}$ International Conference on Artificial Intelligence and Statistics (\textbf{AISTATS} 2021), 130}{}{}{}{HAL: \textcolor{blue}{\href{https://hal.archives-ouvertes.fr/hal-03172145}{03172145}}}
+\bigskip
 
-\section{Language proficiency}
+\subsection{Oral Communications at International Conferences}
+\vspace{0.2cm}\textcolor{blue}{\textbf{2022}}\vspace{0.2cm}\\
+\cventry{14/09/2022}{$20^\textnormal{th}$ International Conference on Computational Methods in Systems Biology (Bucharest, Romania)}{\underline{C. Réda}. Prioritization of Candidate Genes Through Boolean Networks}{}{}{}
+\cventry{10/02/2022}{$13^\textnormal{th}$ Conference on Dynamical Systems Applied to Biology and Natural Sciences (held virtually)}{\underline{C. Réda}. Prioritization of Candidate Genes Through Boolean Networks}{}{}{}
+\vspace{0.2cm}\textcolor{blue}{\textbf{2021}}\vspace{0.2cm}\\
+\cventry{08/12/2021}{NeurIPS@Paris $2021$ (Paris, France)}{\underline{C. Réda}. Dealing With Misspecification In Fixed-Confidence Linear Top-m Identification}{}{}{}
+\vspace{0.2cm}\textcolor{blue}{\textbf{2020}}\vspace{0.2cm}\\
+\cventry{02/07/2020}{Journ\'{e}es Ouvertes de Biologie, Informatique et Math\'{e}matique (JOBIM) 2020 (held virtually)}{\underline{C. Réda}. Automated inference of gene regulatory networks using explicit regulatory modules}{}{}{}
+\vspace{0.2cm}\textcolor{blue}{\textbf{2018}}\vspace{0.2cm}\\
+\cventry{08/09/2018}{Workshop 6 of the 17th European Conference on Computational Biology (ECCB 2018, Athens, Greece)}{\underline{C. Réda}. Automated inference of gene regulatory networks using explicit regulatory modules}{}{}{}
+\cventry{28/06/2018}{BioInformatics in Toruń (BIT 2018, Toruń, Poland)}{\underline{C. Réda}. Automated inference of gene regulatory networks using explicit regulatory modules}{}{}{}
+
+\subsection{Poster presentations at International Conferences}
+\cventry{07/2022}{Journ\'{e}es Ouvertes de Biologie, Informatique et Math\'{e}matique (JOBIM 2022, Rennes, France)}{\underline{C. Réda}. Prioritization of Candidate Genes Through Influence Maximization}{}{}{}
+\cventry{12/2021}{$35^\textnormal{th}$ International Conference on Advances in Neural Information Processing Systems (NeurIPS 2022, held virtually)}{\underline{C. Réda}. Dealing With Misspecification In Fixed-Confidence Linear Top-m Identification}{}{}{}
+\cventry{04/2021}{$24^\textnormal{th}$ International Conference on Artificial Intelligence and Statistics (AISTATS 2021, held virtually)}{\underline{C. Réda}. Top-$m$ identification for linear bandits}{}{}{}
+
+\section{Commitment to Popularization of Sciences and Law Making}
+\subsection{Popularization of Sciences}
+\cvitem{12/2016--09/2018}{\textbf{Published on} \textcolor{blue}{\href{https://tryalgo.org/fr/}{Tryalgo}} [in French] : series of blog posts on known algorithms with concrete applications, aimed at high school and college students (approx. $2,400$ unique monthly users~; two of these posts constitute the Top-$2$ most visited pages.} 
+\cvitem{10/2016}{\textbf{Published on} \textcolor{blue}{\href{https://www.lemonde.fr/blog/binaire/2016/10/17/a-p-b-la-vie-apres-le-bac/}{Binaire}} (blog on Computer Science affiliated with French newspaper \textit{Le Monde}) \textbf{and} \textcolor{blue}{\href{https://theconversation.com/apb-la-vie-apres-le-bac-66848}{The Conversation}} [in French] : ``A.P.B. : La vie après le bac'' (conjointy written with \textcolor{blue}{\href{https://www.inria.fr/en/serge-abiteboul}{Serge Abiteboul}}). Explanation of the algorithm of Gale-Shapley which has been in use in a previous version of the French national web application for high school students' applications to college} 
+\subsection{Popularization of Law-Making}
+\cvitem{12/2016--09/2018}{\textbf{Published on} \textcolor{blue}{\href{https://reflechir.fr/}{R\'{e}fl\'{e}chir.fr}} [in French] : series of blog posts on laws passed since 2017 in France: explanation of their content and their consequences ($534$ followers on February, $24$ $2021$).} 
+
+\section{Miscellaneous Training}
+\subsection{Language Proficiency}
 \cvitemwithcomment{French}{C2}{Native speaker.}
 \cvitemwithcomment{English}{C1}{TOEFL score (in 2016): 643/677.}
-\cvitemwithcomment{Spanish}{B1}{Intermediate level, studied at school for seven years.}
+\cvitemwithcomment{Spanish}{B2}{Intermediate level, studied at school for seven years.}
+\subsection{Skills}
+\cvitemwithcomment{Programming}{Bash, Python, Ocaml, R, HTML/CSS, LaTeX, Jekyll (Ruby)}{}
+\textbf{Training.} Communication in talks and posters (including graphics and design using PowerPoint); mentoring; collaboration with mathematicians, computer scientists, bioinformaticians, biologists and medical practitioners; problem-solving abilities (in programming, in mathematics); adaptability to new disciplines (metagenomics, sequencing data processing, use of computing clusters, functional genomics, multi-armed bandit algorithms); familiarity with FAIR principles (training course “\textit{Les principes FAIR appliqués à la bioinformatique}” from 31/08/2020 to 02/09/2020 in Paris, France).
 
 \end{document}

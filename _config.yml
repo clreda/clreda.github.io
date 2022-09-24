@@ -24,3 +24,5 @@ discord_username:  kureda
 address: "Bât Bingen, 48 boulevard Sérurier, 75019 Paris, France"
 
 encoding: UTF-8
+
+exclude: ['package.json', 'src' , 'node_modules']

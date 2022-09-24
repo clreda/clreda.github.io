@@ -19,4 +19,4 @@ In accordance with the provisions of the law n°2004-575 of June 21, 2004 “Pou
 
 ## Protection and use of personal data
 
-In accordance with the provisions of Law 78-17 of January 6, 1978, as amended, the user has the right to access, modify and delete information collected by TryAlgo. To exercise this right, the user will have to send a message to the following email address: [clemence.reda@inserm.fr](mailto:clemence.reda@inserm.fr).
+In accordance with the provisions of Law 78-17 of January 6, 1978, as amended, the user has the right to access, modify and delete information collected by Clémence Réda. To exercise this right, the user will have to send a message to the following email address: [clemence.reda@inserm.fr](mailto:clemence.reda@inserm.fr).
