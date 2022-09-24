@@ -1,13 +1,10 @@
-title: "Homepage of Clémence Réda"
+# Site settings
+title: "Clémence Réda"
+username: "Clémence Réda"
+user_title: "PhD student in Genetics at Inserm Neurodiderot & Inria SCOOL since 2019/09"
 description: #>- this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.clreda.github.io
-
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
 
 host: 0.0.0.0
 port: 4080
@@ -15,12 +12,13 @@ google_analytics: G-KKE9ZM79MV #UA-123473849-1
 
 plugins: ["jekyll-seo-tag"]
 
-publications: 
+publications:
 projects:
 
 email: clemence.reda@inserm.fr
 github_username:  clreda
 discord_username:  kureda
+linkedin_username: clemence-reda
 address: "Bât Bingen, 48 boulevard Sérurier, 75019 Paris, France"
 
 encoding: UTF-8
