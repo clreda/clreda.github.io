@@ -7,7 +7,7 @@ permalink: /research/
 
 ### *Papers*
 
-- <u>C. Réda</u>, S. Vakili, and E. Kaufmann. **Near-Optimal Collaborative Learning With Bandits** *In* Proceedings of the 36th Conference on Neural Information Processing Systems, 2022 [**accepted**]
+- <u>C. Réda</u>, S. Vakili, and E. Kaufmann. **Near-Optimal Collaborative Learning With Bandits** *In* Proceedings of the 36th Conference on Neural Information Processing Systems, 2022 [**accepted**: [<font color="#003366">preprint</font>](https://arxiv.org/pdf/2206.00121.pdf)]
 
 - <u>C. Réda</u> and A. Delahaye-Duriez. **Prioritization of Candidate Genes Through Boolean Networks** *In* Proceeedings of the 20th International Conference on Computational Methods in Systems Biology, 2022. 
 In accordance with Springer Nature's [<font color="#003366">sharing policy</font>](https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms): [<font color="003366">accepted manuscript</font>]({{ site.baseurl }}/assets/reda2022prioritization_accepted.pdf) [**best student paper award**]
