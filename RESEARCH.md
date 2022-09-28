@@ -7,16 +7,16 @@ permalink: /research/
 
 ### *Papers*
 
-- <u>C. Réda</u>, S. Vakili, and E. Kaufmann. **Near-Optimal Collaborative Learning With Bandits** *In* Proceedings of the 36th Conference on Neural Information Processing Systems, 2022 [**accepted**: [<font color="#003366">preprint</font>](https://arxiv.org/pdf/2206.00121.pdf)]
+- <u>C. Réda</u>, S. Vakili, and É. Kaufmann. **Near-Optimal Collaborative Learning With Bandits** *In* Proceedings of the 36th Conference on Neural Information Processing Systems, 2022 [**accepted**: [<font color="#003366">preprint</font>](https://arxiv.org/pdf/2206.00121.pdf)]
 
 - <u>C. Réda</u> and A. Delahaye-Duriez. **Prioritization of Candidate Genes Through Boolean Networks** *In* Proceeedings of the 20th International Conference on Computational Methods in Systems Biology, 2022. 
 In accordance with Springer Nature's [<font color="#003366">sharing policy</font>](https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms): [<font color="003366">accepted manuscript</font>]({{ site.baseurl }}/assets/reda2022prioritization_accepted.pdf) [**best student paper award**]
 
 - <u>C. Réda</u>, A. Tirinzoni, and R. Degenne. **Dealing With Misspecification In Fixed-Confidence Linear Top-m Identification** *In* Proceedings of the 35th Conference on Neural Information Processing Systems, 2021 [<font color="#003366">HAL-03409205</font>](https://hal.archives-ouvertes.fr/hal-03409205).
 
-- <u>C. Réda</u>, E. Kaufmann, and A. Delahaye-Duriez. **Top-*m* identification for linear bandits** *In* Proceedings of the 24th International Conference on Artificial Intelligence and Statistics, 2021 [<font color="#003366">HAL-03172145</font>](http://proceedings.mlr.press/v130/reda21a.html).
+- <u>C. Réda</u>, É. Kaufmann, and A. Delahaye-Duriez. **Top-*m* identification for linear bandits** *In* Proceedings of the 24th International Conference on Artificial Intelligence and Statistics, 2021 [<font color="#003366">HAL-03172145</font>](http://proceedings.mlr.press/v130/reda21a.html).
 
-- <u>C. Réda</u>, E. Kaufmann, and A. Delahaye-Duriez. **Machine learning applications in drug development** *In* Computational and Structural Biotechnology Journal, 2020 [<font color="#003366">DOI-10.1016/j.csbj.2019.12.006</font>](https://doi.org/10.1016/j.csbj.2019.12.006).
+- <u>C. Réda</u>, É. Kaufmann, and A. Delahaye-Duriez. **Machine learning applications in drug development** *In* Computational and Structural Biotechnology Journal, 2020 [<font color="#003366">DOI-10.1016/j.csbj.2019.12.006</font>](https://doi.org/10.1016/j.csbj.2019.12.006).
 
 - <u>C. Réda</u> and B. Wilczyński. **Automated Inference of Gene Regulatory Networks Using Explicit Regulatory Modules** *In* Journal of Theoretical Biology, 2020 [<font color="#003366">DOI-10.1016/j.jtbi.2019.110091</font>](https://doi.org/10.1016/j.jtbi.2019.110091). In accordance with Elsevier's [<font color="#003366">sharing policy</font>](https://www.elsevier.com/about/policies/sharing): [<font color="#003366">accepted manuscript</font>]({{ site.baseurl }}/assets/reda2019automated_accepted.pdf).
 
@@ -39,7 +39,16 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 ### *Posters*
 
-- <u>C. Réda</u>, A. Tirinzoni, and R. Degenne. **Dealing With Misspecification In Fixed-Confidence Linear Top-m Identification** *@NeurIPS'21*
+- <u>C. Réda</u> and A. Delahaye-Duriez. [**<font color="#003366">Prioritization of Candidate Genes Through Boolean Networks</font>**]({{ site.baseurl }}/assets/REDA_CMSB2022.pdf) *@CMSB'22*
 
-- <u>C. Réda</u>, E. Kaufmann, and A. Delahaye-Duriez. **Top-m identification for linear bandits** *@AISTATS'21*
+- <u>C. Réda</u>, A. Tirinzoni, and R. Degenne. [**<font color="#003366">Dealing With Misspecification In Fixed-Confidence Linear Top-m Identification</font>**]({{ site.baseurl }}/assets/REDA_NeurIPS2021.pdf) *@NeurIPS'21*
+
+- <u>C. Réda</u>, É. Kaufmann, and A. Delahaye-Duriez. [**<font color="#003366">Top-m identification for linear bandits</font>**]({{ site.baseurl }}/assets/REDA_AISTATS2021.pdf) *@AISTATS'21*
+
+- <u>C. Réda</u> and B. Wilczyński. **Automated Inference of Gene Regulatory Networks Using Explicit Regulatory Modules** *@BIT'18*
+
+### *Thesis*
+
+<u>C. Réda</u> [**<font color="#003366">Combination of gene regulatory networks and sequential machine learning for drug repurposing</font>**]({{ site.baseurl }}/assets/REDA_PhD.pdf) [*<font color="#003366">Viva</font>*]({{ site.baseurl }}/assets/REDA_PhDViva.pdf) on 09/09/22
+
 
