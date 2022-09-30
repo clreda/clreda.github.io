@@ -45,7 +45,7 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 - <u>C. Réda</u>, É. Kaufmann, and A. Delahaye-Duriez. [**<font color="#003366">Top-m identification for linear bandits</font>**]({{ site.baseurl }}/assets/REDA_AISTATS2021.pdf) *@AISTATS'21*
 
-- <u>C. Réda</u> and B. Wilczyński. **Automated Inference of Gene Regulatory Networks Using Explicit Regulatory Modules** *@BIT'18*
+- <u>C. Réda</u> and B. Wilczyński. [**<font color="#003366">Automated Inference of Gene Regulatory Networks Using Explicit Regulatory Modules</font>**]({{ site.baseurl }}/assets/REDA_BIT2018.pdf) *@BIT'18*
 
 ### *Thesis*
 
