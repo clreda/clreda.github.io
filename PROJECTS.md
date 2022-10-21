@@ -8,7 +8,7 @@ permalink: /projects/
 ### *Systems Biology*
 - Projects coded during my PhD at **Inserm Neurodiderot** in Paris, France and at **Inria SCOOL** in Villeneuve-d'Ascq [*in Python*]
 
-[<font color="#003366">Prioritization Master Regulators</font>](https://github.com/clreda/PrioritizationMasterRegulators) (Prioritization of disease-specific master regulatory genes)
+[<font color="#003366">Prioritization Master Regulators</font>](https://github.com/clreda/PrioritizationMasterRegulators) (Prioritization of disease-specific master regulatory genes), [<font color="#003366">NORDic Python package</font>](https://pypi.org/project/NORDic/) (Network identification and prioritization of genes)
 
 - Projects coded during my internship at the **MIM UW** in Warsaw, Poland [*in Python and R*]
 
