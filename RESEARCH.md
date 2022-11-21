@@ -7,7 +7,7 @@ permalink: /research/
 
 ### *Papers*
 
-- <u>C. Réda</u>, S. Vakili, and É. Kaufmann. **Near-Optimal Collaborative Learning With Bandits** *In* Proceedings of the 36th Conference on Neural Information Processing Systems, 2022 [<font color="#003366">HAL-03825099</font>](https://hal.archives-ouvertes.fr/hal-03825099) [**Selected as Oral**]
+- <u>C. Réda</u>, S. Vakili, and É. Kaufmann. **Near-Optimal Collaborative Learning With Bandits** *In* Proceedings of the 36th Conference on Neural Information Processing Systems, 2022 [<font color="#003366">HAL-03825099</font>](https://hal.archives-ouvertes.fr/hal-03825099) [**Selected as oral**]
 
 - <u>C. Réda</u> and A. Delahaye-Duriez. **Prioritization of Candidate Genes Through Boolean Networks** *In* Proceeedings of the 20th International Conference on Computational Methods in Systems Biology, 2022. 
 In accordance with Springer Nature's [<font color="#003366">sharing policy</font>](https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms): [<font color="003366">accepted manuscript</font>]({{ site.baseurl }}/assets/reda2022prioritization_accepted.pdf) [**Best student paper award**]
@@ -39,6 +39,8 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 ### *Posters*
 
+- <u>C. Réda</u>, S. Vakili, and É. Kaufmann. [**<font color="#003366">Near-Optimal Collaborative Learning With Bandits</font>**]({{ site.baseurl }}/assets/REDA_NeurIPS2022.pdf) *@NeurIPS'22*
+
 - <u>C. Réda</u> and A. Delahaye-Duriez. [**<font color="#003366">Prioritization of Candidate Genes Through Boolean Networks</font>**]({{ site.baseurl }}/assets/REDA_CMSB2022.pdf) *@CMSB'22*
 
 - <u>C. Réda</u>, A. Tirinzoni, and R. Degenne. [**<font color="#003366">Dealing With Misspecification In Fixed-Confidence Linear Top-m Identification</font>**]({{ site.baseurl }}/assets/REDA_NeurIPS2021.pdf) *@NeurIPS'21*
@@ -49,6 +51,6 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 ### *Thesis*
 
-<u>C. Réda</u> [**<font color="#003366">Combination of gene regulatory networks and sequential machine learning for drug repurposing</font>**]({{ site.baseurl }}/assets/REDA_PhD.pdf) [*<font color="#003366">Viva</font>*]({{ site.baseurl }}/assets/REDA_PhDViva.pdf) on 09/09/22
+<u>C. Réda</u> **Combination of gene regulatory networks and sequential machine learning for drug repurposing** [<font color="#003366">TEL-03846072</font>](https://hal.archives-ouvertes.fr/tel-03846072) [*<font color="#003366">Viva</font>*]({{ site.baseurl }}/assets/REDA_PhDViva.pdf) on 09/09/22
 
 
