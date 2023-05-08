@@ -5,6 +5,10 @@ permalink: /projects/
 
 ## **<font color="#003366">Projects</font>**
 
+### *Applied Machine Learning/Collaborative Filtering*
+
+- Main website project for the [<font color="#003366">RECeSS project</font>](https://recess-eu-project.github.io/)
+
 ### *Systems Biology*
 - Projects coded during my PhD at **Inserm Neurodiderot** in Paris, France and at **Inria SCOOL** in Villeneuve-d'Ascq [*in Python*]
 
