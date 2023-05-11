@@ -25,10 +25,6 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 ### *Oral communications*
 
-- <u>C. Réda</u>. **NORDic: a package for the automated identification of disease-associated Boolean networks and master regulators** *@GT BioSS (07/04/2023)* [**invited talk**] ([<font color="#003366">program</font>](https://www.bioss-cnrs.fr/seminaires/2023-04/)).
-
-- <u>C. Réda</u>. **NORDic: a package for the automated identification of disease-associated Boolean networks and master regulators** *@SMPGD'23* [**invited talk**] ([<font color="#003366">program</font>](https://smpgd2023.sciencesconf.org/)).
-
 - <u>C. Réda</u>, A. Delahaye-Duriez. **Prioritization of Candidate Genes Through Boolean Networks** *@CMSB'22* ([<font color="#003366">program</font>](https://fmi.unibuc.ro/en/cmsb-2022/cmsb-2022-program/)).
 
 - <u>C. Réda</u>, A. Delahaye-Duriez. **Gene network oriented drug discovery: automated inference of Boolean networks for drug target prediction**
@@ -55,7 +51,9 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 ### *Invited talks*
 
-- <u>C. Réda</u>. [**<font color="#003366">Statistical Methods for Post Genomic Data 2023</font>**](https://smpgd2023.sciencesconf.org/) *Ghent, February 2nd-3rd, 2023*
+- <u>C. Réda</u>. [**<font color="#003366">Groupe de Travail sur la BIOlogie Systémique Symbolique (GT BioSS)</font>**](https://www.bioss-cnrs.fr/seminaires/2023-04/) *Online, April 7th, 2023*
+
+- <u>C. Réda</u>. [**<font color="#003366">Statistical Methods for Post Genomic Data (SMPGD) 2023</font>**](https://smpgd2023.sciencesconf.org/) *Ghent, February 2nd-3rd, 2023*
 
 - <u>C. Réda</u>. [**<font color="#003366">External team seminar</font>**]() *BioComputing/CRIStAL team, Villeneuve-d'Ascq, December 13th, 2022*
 
