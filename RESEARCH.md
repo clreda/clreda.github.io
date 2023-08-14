@@ -39,6 +39,8 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 ### *Posters*
 
+- <u>C. Réda</u> and A. Delahaye-Duriez. [**<font color="#003366">Drug repurposing in breast cancer by combining bandit algorithms and Boolean networks with NORDic</font>**]({{ site.baseurl }}/assets/ISMBECCB2023_1197_Réda_poster.pdf) *@ISMB/ECCB'23*
+
 - <u>C. Réda</u>, S. Vakili, and É. Kaufmann. [**<font color="#003366">Near-Optimal Collaborative Learning With Bandits</font>**]({{ site.baseurl }}/assets/REDA_NeurIPS2022.pdf) *@NeurIPS'22*
 
 - <u>C. Réda</u> and A. Delahaye-Duriez. [**<font color="#003366">Prioritization of Candidate Genes Through Boolean Networks</font>**]({{ site.baseurl }}/assets/REDA_CMSB2022.pdf) *@CMSB'22*
