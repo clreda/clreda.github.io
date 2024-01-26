@@ -7,6 +7,8 @@ permalink: /research/
 
 ### *Papers*
 
+- <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **stanscofi and benchscofi: a new standard for drug repurposing by collaborative filtering** *In* Journal of Open Source Software, 2024 [<font color="#003366">DOI-10.21105/joss.05973</font>](https://doi.org/10.21105/joss.05973) 
+
 - <u>C. Réda</u> and A. Delahaye-Duriez. **NORDic: a Network-Oriented package for the Repurposing of Drugs** *In* Journal of Open Source Software, 2023 [<font color="#003366">DOI-10.21105/joss.05532</font>](https://doi.org/10.21105/joss.05532)
 
 - <u>C. Réda</u>, S. Vakili, and É. Kaufmann. **Near-Optimal Collaborative Learning With Bandits** *In* Proceedings of the 36th Conference on Neural Information Processing Systems, 2022 [<font color="#003366">HAL-03825099</font>](https://hal.archives-ouvertes.fr/hal-03825099) [**Selected as oral**]
@@ -25,7 +27,7 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 - A. Delahaye-Duriez, <u>C. Réda</u> and P. Gressens. **Identification de cibles thérapeutiques et repositionnement de médicaments par analyses de réseaux géniques**
 *In* médecine/sciences, 2019 ([<font color="#003366">full text</font>](https://www.medecinesciences.org/en/articles/medsci/full_html/2019/07/msc190127/msc190127.html)).
 
-### *Oral communications in 2022-2023*
+### *Oral communications in 2022-2024*
 
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **Benchmarking collaborative filtering approaches to drug repurposing** *@e:Med2023* ([<font color="#003366">program</font>](https://www.sys-med.de/de/meeting/emed-meeting-2023/program/)).
 
@@ -36,7 +38,9 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 - <u>C. Réda</u>, A. Delahaye-Duriez. **Gene network oriented drug discovery: automated inference of Boolean networks for drug target prediction**
 *@DSABNS'22* ([<font color="#003366">book of abstracts, page 245</font>](https://sites.google.com/view/dsabns2022/scientific-programme/book-of-abstracts)).
 
-### *Poster communications in 2022-2023*
+### *Poster communications in 2022-2024*
+
+- <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. [**<font color="#003366">Towards a large-scale benchmark of collaborative filtering in drug repurposing</font>**]({{ site.baseurl }}/assets/SMPGD2024_Réda_poster.pdf) *@SMPGD'24*
 
 - <u>C. Réda</u> and A. Delahaye-Duriez. [**<font color="#003366">Drug repurposing in breast cancer by combining bandit algorithms and Boolean networks with NORDic</font>**]({{ site.baseurl }}/assets/ISMBECCB2023_1197_Réda_poster.pdf) *@ISMB/ECCB'23*
 
@@ -44,7 +48,7 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 - <u>C. Réda</u> and A. Delahaye-Duriez. [**<font color="#003366">Prioritization of Candidate Genes Through Boolean Networks</font>**]({{ site.baseurl }}/assets/REDA_CMSB2022.pdf) *@CMSB'22* **[see oral]**
 
-### *Invited talks in 2022-2023*
+### *Invited talks in 2022-2024*
 
 - <u>C. Réda</u>. [**<font color="#003366">Groupe de Travail sur la BIOlogie Systémique Symbolique (GT BioSS)</font>**](https://www.bioss-cnrs.fr/seminaires/2023-04/) *Online, April 7th, 2023*
 
@@ -54,7 +58,7 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 - <u>C. Réda</u>. [**<font color="#003366">External team seminar</font>**]() *SBI Rostock team, Rostock, June 28th, 2022*
 
-### *PhD Thesis (September 2022)*
+### *PhD Thesis (September 9th 2022)*
 
 <u>C. Réda</u> **Combination of gene regulatory networks and sequential machine learning for drug repurposing** [<font color="#003366">TEL-03846072</font>](https://hal.archives-ouvertes.fr/tel-03846072) [*<font color="#003366">Viva</font>*]({{ site.baseurl }}/assets/REDA_PhDViva.pdf) on 09/09/22
 
