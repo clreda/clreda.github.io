@@ -9,7 +9,9 @@ permalink: /projects/
 
 - Main website project for the [<font color="#003366">RECeSS project</font>](https://recess-eu-project.github.io/)
 
-   + We have recently released *[<font color="#003366">stanscofi</font>](https://github.com/recess-eu-project/stanscofi)* (helper Python Package for the development of collaborative-filtering based approaches) and *[<font color="#003366">benchscofi</font>](https://github.com/recess-eu-project/benchscofi)* a large, reproducible benchmark on state-of-the-art algorithms.
+   + We released *[<font color="#003366">stanscofi</font>](https://github.com/recess-eu-project/stanscofi)*, a helper Python Package for the development of collaborative-filtering based approaches, and *[<font color="#003366">benchscofi</font>](https://github.com/recess-eu-project/benchscofi)* for a large, reproducible benchmark on state-of-the-art algorithms.
+   
+   + We recently released *[<font color="#003366">JELI</font>](https://github.com/recess-eu-project/JELI)*, an interpretable collaborative filtering algorithm in Python for any recommendation task.
 
 ### *Systems Biology*
 - Projects coded during my PhD at **Inserm Neurodiderot** in Paris, France and at **Inria SCOOL** in Villeneuve-d'Ascq [*in Python*]
