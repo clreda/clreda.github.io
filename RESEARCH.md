@@ -17,7 +17,7 @@ permalink: /research/
 
 ### *Papers*
 
-- A. Dufour$^*$, A. Heydari-Olya$^*$, S. Foulon$^*$, <u>C. Réda</u>, et al. **Neonatal inflammation impairs developmentally-associated microglia and promotes a highly reactive microglial subset** *In* Brain, Behavior, and Immunity, 2024 [<font color="#003366">DOI-10.1016/j.bbi.2024.09.019</font>](https://doi.org/10.1016/j.bbi.2024.09.019) 
+- A. Dufour, A. Heydari-Olya, S. Foulon, <u>C. Réda</u>, et al. **Neonatal inflammation impairs developmentally-associated microglia and promotes a highly reactive microglial subset** *In* Brain, Behavior, and Immunity, 2024 [<font color="#003366">DOI-10.1016/j.bbi.2024.09.019</font>](https://doi.org/10.1016/j.bbi.2024.09.019) 
 
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **stanscofi and benchscofi: a new standard for drug repurposing by collaborative filtering** *In* Journal of Open Source Software, 2024 [<font color="#003366">DOI-10.21105/joss.05973</font>](https://doi.org/10.21105/joss.05973) 
 
