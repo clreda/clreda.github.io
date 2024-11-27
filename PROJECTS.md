@@ -55,6 +55,8 @@ permalink: /projects/
 
 ### *Articles & Blogs*
 
+- A popularization post on drug repurposing <u>C. Réda</u>, B. Villoutreix and A. Delahaye-Duriez. **Repositionnement de médicaments** *In* La Revue du Praticien, 21 novembre 2024, 74(9);942-6 [<font color="#003366">link (text in French)</font>](https://www.larevuedupraticien.fr/article/repositionnement-de-medicaments) 
+
 - A blog about science, politics, and stuff with C. Lemarié-Rieusset [*in French*, worst programming language ever]
 
 [<font color="#003366">Réfléchir</font>](http://reflechir.fr/)
