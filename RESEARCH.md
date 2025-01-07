@@ -7,17 +7,17 @@ permalink: /research/
 
 ### *Preprints*
 
-- <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **Joint Embedding-Classifier Learning for Interpretable Collaborative Filtering** *Under review*, 2024 [<font color="#003366">HAL-04625183</font>](https://hal.science/hal-04625183)
-
-- <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **Comprehensive evaluation of collaborative filtering in drug repurposing** *Under review*, 2024 [<font color="#003366">HAL-04626970</font>](https://hal.science/hal-04626970/)
-
 - R. Bordoloi, <u>C. Réda</u>, O. Trautmann, S. Bej and O. Wolkenhauer. **Multivariate Functional Linear Discriminant Analysis for the Classification of Short Time Series with Missing Data** *Under review*, 2024 [<font color="#003366">arXiv-2402.13103</font>](https://arxiv.org/pdf/2402.13103)
 
 - M. Jourdan and <u>C. Réda</u>. **An Anytime Algorithm for Good Arm Identification** *Under review*, 2023 [<font color="#003366">arXiv-2310.10359</font>](https://arxiv.org/pdf/2310.10359)  
 
 ### *Papers*
 
-- A. Dufour, A. Heydari-Olya, S. Foulon, <u>C. Réda</u>, et al. **Neonatal inflammation impairs developmentally-associated microglia and promotes a highly reactive microglial subset** *In* Brain, Behavior, and Immunity, 2024 [<font color="#003366">DOI-10.1016/j.bbi.2024.09.019</font>](https://doi.org/10.1016/j.bbi.2024.09.019) 
+- <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **Comprehensive evaluation of collaborative filtering in drug repurposing** *In press* Scientific Reports, 2025 [<font color="#003366">HAL-04626970</font>](https://hal.science/hal-04626970/)
+
+- <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **Joint Embedding-Classifier Learning for Interpretable Collaborative Filtering** *In press* BMC Bioinformatics, 2025 [<font color="#003366">HAL-04625183</font>](https://hal.science/hal-04625183)
+
+- A. Dufour, A. Heydari-Olya, S. Foulon, <u>C. Réda</u>, et al. **Neonatal inflammation impairs developmentally-associated microglia and promotes a highly reactive microglial subset** *In* Brain, Behavior, and Immunity, 2025 [<font color="#003366">DOI-10.1016/j.bbi.2024.09.019</font>](https://doi.org/10.1016/j.bbi.2024.09.019) 
 
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **stanscofi and benchscofi: a new standard for drug repurposing by collaborative filtering** *In* Journal of Open Source Software, 2024 [<font color="#003366">DOI-10.21105/joss.05973</font>](https://doi.org/10.21105/joss.05973) 
 
