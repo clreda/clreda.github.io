@@ -7,11 +7,11 @@ permalink: /research/
 
 ### *Preprints*
 
-- R. Bordoloi, <u>C. Réda</u>, O. Trautmann, S. Bej and O. Wolkenhauer. **Multivariate Functional Linear Discriminant Analysis for the Classification of Short Time Series with Missing Data** *Under review*, 2024 [<font color="#003366">arXiv-2402.13103</font>](https://arxiv.org/pdf/2402.13103)
-
 - M. Jourdan and <u>C. Réda</u>. **An Anytime Algorithm for Good Arm Identification** *Under review*, 2023 [<font color="#003366">arXiv-2310.10359</font>](https://arxiv.org/pdf/2310.10359)  
 
 ### *Papers*
+
+- R. Bordoloi, <u>C. Réda</u>, O. Trautmann, S. Bej and O. Wolkenhauer. **Multivariate Functional Linear Discriminant Analysis for the Classification of Short Time Series with Missing Data** *In press* Machine Learning, 2025 [<font color="#003366">arXiv-2402.13103</font>](https://arxiv.org/pdf/2402.13103)
 
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **Comprehensive evaluation of collaborative filtering in drug repurposing** *In press* Scientific Reports, 2025 [<font color="#003366">HAL-04626970</font>](https://hal.science/hal-04626970/)
 
