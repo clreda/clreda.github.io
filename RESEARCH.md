@@ -13,9 +13,9 @@ permalink: /research/
 
 - R. Bordoloi, <u>C. Réda</u>, O. Trautmann, S. Bej and O. Wolkenhauer. **Multivariate Functional Linear Discriminant Analysis for the Classification of Short Time Series with Missing Data** *In press* Machine Learning, 2025 [<font color="#003366">arXiv-2402.13103</font>](https://arxiv.org/pdf/2402.13103)
 
-- <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **Comprehensive evaluation of collaborative filtering in drug repurposing** *In press* Scientific Reports, 2025 [<font color="#003366">HAL-04626970</font>](https://hal.science/hal-04626970/)
+- <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **Comprehensive evaluation of collaborative filtering in drug repurposing** *In* Scientific Reports, 2025 [<font color="#003366">DOI-10.1038/s41598-025-85927-x</font>](https://doi.org/10.1038/s41598-025-85927-x)
 
-- <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **Joint Embedding-Classifier Learning for Interpretable Collaborative Filtering** *In press* BMC Bioinformatics, 2025 [<font color="#003366">HAL-04625183</font>](https://hal.science/hal-04625183)
+- <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **Joint Embedding-Classifier Learning for Interpretable Collaborative Filtering** *In* BMC Bioinformatics, 2025 [<font color="#003366">DOI-10.1186/s12859-024-06026-8</font>](https://doi.org/10.1186/s12859-024-06026-8)
 
 - A. Dufour, A. Heydari-Olya, S. Foulon, <u>C. Réda</u>, et al. **Neonatal inflammation impairs developmentally-associated microglia and promotes a highly reactive microglial subset** *In* Brain, Behavior, and Immunity, 2025 [<font color="#003366">DOI-10.1016/j.bbi.2024.09.019</font>](https://doi.org/10.1016/j.bbi.2024.09.019) 
 
