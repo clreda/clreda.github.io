@@ -19,6 +19,9 @@ permalink: /research/
 
 - A. Dufour, A. Heydari-Olya, S. Foulon, <u>C. Réda</u>, et al. **Neonatal inflammation impairs developmentally-associated microglia and promotes a highly reactive microglial subset** *In* Brain, Behavior, and Immunity, 2025 [<font color="#003366">DOI-10.1016/j.bbi.2024.09.019</font>](https://doi.org/10.1016/j.bbi.2024.09.019) 
 
+- <u>C. Réda</u>, B. Villoutreix, and A. Delahaye-Duriez. **Repositionnement de médicaments**
+*In* La Revue du Praticien, 2024 ([<font color="#003366">full text (paywall)</font>](https://www.larevuedupraticien.fr/article/repositionnement-de-medicaments)).
+
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **stanscofi and benchscofi: a new standard for drug repurposing by collaborative filtering** *In* Journal of Open Source Software, 2024 [<font color="#003366">DOI-10.21105/joss.05973</font>](https://doi.org/10.21105/joss.05973) 
 
 - <u>C. Réda</u> and A. Delahaye-Duriez. **NORDic: a Network-Oriented package for the Repurposing of Drugs** *In* Journal of Open Source Software, 2023 [<font color="#003366">DOI-10.21105/joss.05532</font>](https://doi.org/10.21105/joss.05532)
