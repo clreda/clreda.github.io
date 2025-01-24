@@ -7,6 +7,8 @@ permalink: /research/
 
 ### *Preprints*
 
+- R. Bordoloi, <u>C. Réda</u> and S. Bej. **Fast Iterative and Task-Specific Imputation with Online Learning** *Under review*, 2025 [<font color="#003366">arXiv-2501.13786</font>](https://arxiv.org/pdf/2501.13786)  
+
 - M. Jourdan and <u>C. Réda</u>. **An Anytime Algorithm for Good Arm Identification** *Under review*, 2023 [<font color="#003366">arXiv-2310.10359</font>](https://arxiv.org/pdf/2310.10359)  
 
 ### *Papers*
