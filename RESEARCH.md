@@ -13,7 +13,7 @@ permalink: /research/
 
 ### *Papers*
 
-- R. Bordoloi, <u>C. Réda</u>, O. Trautmann, S. Bej and O. Wolkenhauer. **Multivariate functional linear discriminant analysis for partially‑observed time series** Machine Learning, 2025 [<font color="#003366">10.1007/s10994-025-06741-0</font>](https://doi.org/10.1007/s10994-025-06741-0)
+- R. Bordoloi, <u>C. Réda</u>, O. Trautmann, S. Bej and O. Wolkenhauer. **Multivariate functional linear discriminant analysis for partially‑observed time series** Machine Learning, 2025 [<font color="#003366">DOI-10.1007/s10994-025-06741-0</font>](https://doi.org/10.1007/s10994-025-06741-0)
 
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **Comprehensive evaluation of collaborative filtering in drug repurposing** *In* Scientific Reports, 2025 [<font color="#003366">DOI-10.1038/s41598-025-85927-x</font>](https://doi.org/10.1038/s41598-025-85927-x)
 
