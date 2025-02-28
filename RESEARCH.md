@@ -7,9 +7,9 @@ permalink: /research/
 
 ### *Preprints*
 
-- R. Bordoloi, <u>C. Réda</u> and S. Bej. **Fast Iterative and Task-Specific Imputation with Online Learning** *Under review*, 2025 [<font color="#003366">arXiv-2501.13786</font>](https://arxiv.org/pdf/2501.13786)  
+- R. Bordoloi, <u>C. Réda</u> and S. Bej. **Fast Iterative and Task-Specific Imputation with Online Learning** *Under review*, 2025 [<font color="#003366">DOI-10.48550/arXiv.2501.13786</font>](https://doi.org/10.48550/arXiv.2501.13786)  
 
-- M. Jourdan and <u>C. Réda</u>. **An Anytime Algorithm for Good Arm Identification** *Under review*, 2023 [<font color="#003366">arXiv-2310.10359</font>](https://arxiv.org/pdf/2310.10359)  
+- M. Jourdan and <u>C. Réda</u>. **An Anytime Algorithm for Good Arm Identification** *Under review*, 2023 [<font color="#003366">DOI-10.48550/arXiv.2310.10359</font>](https://doi.org/10.48550/arXiv.2310.10359)  
 
 ### *Papers*
 
@@ -28,12 +28,12 @@ permalink: /research/
 
 - <u>C. Réda</u> and A. Delahaye-Duriez. **NORDic: a Network-Oriented package for the Repurposing of Drugs** *In* Journal of Open Source Software, 2023 [<font color="#003366">DOI-10.21105/joss.05532</font>](https://doi.org/10.21105/joss.05532)
 
-- <u>C. Réda</u>, S. Vakili, and É. Kaufmann. **Near-Optimal Collaborative Learning With Bandits** *In* Proceedings of the 36th Conference on Neural Information Processing Systems, 2022 [<font color="#003366">HAL-03825099</font>](https://hal.archives-ouvertes.fr/hal-03825099) [**Selected as oral**]
+- <u>C. Réda</u>, S. Vakili, and É. Kaufmann. **Near-Optimal Collaborative Learning With Bandits** *In* Proceedings of the 36th Conference on Neural Information Processing Systems, 2022 [<font color="#003366">HAL-03825099</font>](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5b9bef4eae0f574cedbf9f4bf29d8ae7-Abstract-Conference.html) [**Selected as oral**]
 
-- <u>C. Réda</u> and A. Delahaye-Duriez. **Prioritization of Candidate Genes Through Boolean Networks** *In* Proceeedings of the 20th International Conference on Computational Methods in Systems Biology, 2022. 
+- <u>C. Réda</u> and A. Delahaye-Duriez. **Prioritization of Candidate Genes Through Boolean Networks** *In* Proceeedings of the 20th International Conference on Computational Methods in Systems Biology, 2022 [<font color="#003366">DOI-10.1007/978-3-031-15034-0_5</font>](https://doi.org/10.1007/978-3-031-15034-0_5) . 
 In accordance with Springer Nature's [<font color="#003366">sharing policy</font>](https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms): [<font color="003366">accepted manuscript</font>]({{ site.baseurl }}/assets/reda2022prioritization_accepted.pdf) [**Best student paper award**]
 
-- <u>C. Réda</u>, A. Tirinzoni, and R. Degenne. **Dealing With Misspecification In Fixed-Confidence Linear Top-m Identification** *In* Proceedings of the 35th Conference on Neural Information Processing Systems, 2021 [<font color="#003366">HAL-03409205</font>](https://hal.archives-ouvertes.fr/hal-03409205).
+- <u>C. Réda</u>, A. Tirinzoni, and R. Degenne. **Dealing With Misspecification In Fixed-Confidence Linear Top-m Identification** *In* Proceedings of the 35th Conference on Neural Information Processing Systems, 2021 [<font color="#003366">HAL-03409205</font>](https://proceedings.neurips.cc/paper/2021/hash/d5fcc35c94879a4afad61cacca56192c-Abstract.html).
 
 - <u>C. Réda</u>, É. Kaufmann, and A. Delahaye-Duriez. **Top-*m* identification for linear bandits** *In* Proceedings of the 24th International Conference on Artificial Intelligence and Statistics, 2021 [<font color="#003366">HAL-03172145</font>](http://proceedings.mlr.press/v130/reda21a.html).
 
@@ -42,7 +42,7 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 - <u>C. Réda</u> and B. Wilczyński. **Automated Inference of Gene Regulatory Networks Using Explicit Regulatory Modules** *In* Journal of Theoretical Biology, 2020 [<font color="#003366">DOI-10.1016/j.jtbi.2019.110091</font>](https://doi.org/10.1016/j.jtbi.2019.110091). In accordance with Elsevier's [<font color="#003366">sharing policy</font>](https://www.elsevier.com/about/policies/sharing): [<font color="#003366">accepted manuscript</font>]({{ site.baseurl }}/assets/reda2019automated_accepted.pdf).
 
 - A. Delahaye-Duriez, <u>C. Réda</u> and P. Gressens. **Identification de cibles thérapeutiques et repositionnement de médicaments par analyses de réseaux géniques**
-*In* médecine/sciences, 2019 ([<font color="#003366">full text</font>](https://www.medecinesciences.org/en/articles/medsci/full_html/2019/07/msc190127/msc190127.html)).
+*In* médecine/sciences, 2019 [<font color="#003366">DOI-10.1051/medsci/2019108</font>](https://doi.org/10.1051/medsci/2019108) ([<font color="#003366">full text</font>](https://www.medecinesciences.org/en/articles/medsci/full_html/2019/07/msc190127/msc190127.html)).
 
 ### *Oral communications in 2023-2024*
 
