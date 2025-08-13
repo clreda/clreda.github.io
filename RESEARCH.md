@@ -44,15 +44,19 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 - A. Delahaye-Duriez, <u>C. Réda</u> and P. Gressens. **Identification de cibles thérapeutiques et repositionnement de médicaments par analyses de réseaux géniques**
 *In* médecine/sciences, 2019 [<font color="#003366">DOI-10.1051/medsci/2019108</font>](https://doi.org/10.1051/medsci/2019108) ([<font color="#003366">full text</font>](https://www.medecinesciences.org/en/articles/medsci/full_html/2019/07/msc190127/msc190127.html)).
 
-### *Oral communications in 2023-2024*
+### *Oral and demo communications in 2024-2025*
+
+- F. Romano, <u>C. Réda</u> and A. Delahaye-Duriez. [**<font color="#003366">Journées Ouvertes en Biologie, Informatique et Mathématiques (JOBIM 2025)</font>**](https://jobim2025.labri.fr/program.pdf) *Bordeaux (France), July 8th-11th, 2025*
+
+- <u>C. Réda</u>. [**<font color="#003366">Journées Ouvertes en Biologie, Informatique et Mathématiques (JOBIM 2025)</font>**](https://jobim2025.labri.fr/program.pdf) *Bordeaux (France), July 8th-11th, 2025*
 
 - <u>C. Réda</u>. **NORDic: drug response simulation and drug repurposing with Boolean networks** *@GT Bioss Days 2024: CoLoMoTo Workshop* ([<font color="#003366">program</font>](https://codimd.math.cnrs.fr/s/EVOoKlvx4#)).
 
 - <u>C. Réda</u>. **NORDic: End-to-end inference for Boolean networks** *@Atelier GT Bioss 2024: Évaluation de méthodes d’inférence de modèles dynamiques* ([<font color="#003366">program</font>](https://codimd.math.cnrs.fr/s/pR4cVqX7d#)).
 
-- <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **Benchmarking collaborative filtering approaches to drug repurposing** *@e:Med2023* ([<font color="#003366">program</font>](https://www.sys-med.de/de/meeting/emed-meeting-2023/program/)).
+### *Poster communications in 2024-2025*
 
-### *Poster communications in 2023-2024*
+- F. Romano, <u>C. Réda</u> and A. Delahaye-Duriez. **<font color="#003366">Network-centric analysis of a post-traumatic stress disorder regulatory model** *@ISMB/ECCB'25*
 
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. [**<font color="#003366">JELI: an interpretable embedding-learning recommender system for drug repurposing</font>**]({{ site.baseurl }}/assets/ECCB2024_P406.pdf) *@ECCB'24*
 
@@ -60,13 +64,11 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. [**<font color="#003366">Towards a large-scale benchmark of collaborative filtering in drug repurposing</font>**]({{ site.baseurl }}/assets/SMPGD2024_Réda_poster.pdf) *@SMPGD'24*
 
-- <u>C. Réda</u> and A. Delahaye-Duriez. [**<font color="#003366">Drug repurposing in breast cancer by combining bandit algorithms and Boolean networks with NORDic</font>**]({{ site.baseurl }}/assets/ISMBECCB2023_1197_Réda_poster.pdf) *@ISMB/ECCB'23*
+### *Invited talks in 2024-2025*
 
-### *Invited talks in 2023-2024*
+- <u>C. Réda</u>. [**<font color="#003366">Seminar at Inserm Neurodiderot</font>**](https://neurodiderot.u-paris.fr/seminaire-dr-clemence-reda-le-jeudi-13-mars-2025/) *Paris (France), March 13th, 2025*
 
-- <u>C. Réda</u>. [**<font color="#003366">Groupe de Travail sur la BIOlogie Systémique Symbolique (GT BioSS)</font>**](https://www.bioss-cnrs.fr/seminaires/2023-04/) *Online, April 7th, 2023*
-
-- <u>C. Réda</u>. [**<font color="#003366">Statistical Methods for Post Genomic Data (SMPGD) 2023</font>**](https://smpgd2023.sciencesconf.org/) *Ghent, February 2nd-3rd, 2023*
+- <u>C. Réda</u>. [**<font color="#003366">Seminar at Inserm PARCC</font>**](https://parcc.inserm.fr/seminar/machine-learning-for-interpretability-in-systems-biology/) *Paris (France), February 18th, 2025*
 
 ### *PhD Thesis (September 9th 2022)*
 
