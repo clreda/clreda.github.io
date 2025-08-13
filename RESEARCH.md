@@ -56,7 +56,7 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 ### *Poster communications in 2024-2025*
 
-- F. Romano, <u>C. Réda</u> and A. Delahaye-Duriez. **<font color="#003366">Network-centric analysis of a post-traumatic stress disorder regulatory model** *@ISMB/ECCB'25*
+- F. Romano, <u>C. Réda</u> and A. Delahaye-Duriez. **Network-centric analysis of a post-traumatic stress disorder regulatory model** *@ISMB/ECCB'25*
 
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. [**<font color="#003366">JELI: an interpretable embedding-learning recommender system for drug repurposing</font>**]({{ site.baseurl }}/assets/ECCB2024_P406.pdf) *@ECCB'24*
 
