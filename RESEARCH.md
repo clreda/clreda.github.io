@@ -7,11 +7,13 @@ permalink: /research/
 
 ### *Preprints*
 
-- R. Bordoloi, <u>C. Réda</u>, S. Bej and O. Wolkenhauer. **Handling Missing Data in Downstream Tasks With Distribution-Preserving Guarantees** *Under review*, 2025 [<font color="#003366">DOI-10.48550/arXiv.2501.13786</font>](https://doi.org/10.48550/arXiv.2501.13786)  
+- R. Bordoloi$, <u>C. Réda</u>$, S. Bej and O. Wolkenhauer. **Handling Missing Data in Downstream Tasks With Distribution-Preserving Guarantees** *Under review*, 2025 [<font color="#003366">DOI-10.48550/arXiv.2501.13786</font>](https://doi.org/10.48550/arXiv.2501.13786)  
 
 - M. Jourdan and <u>C. Réda</u>. **An Anytime Algorithm for Good Arm Identification** *Under review*, 2023 [<font color="#003366">DOI-10.48550/arXiv.2310.10359</font>](https://doi.org/10.48550/arXiv.2310.10359)  
 
 ### *Papers*
+
+- C. Bokobza$, <u>C. Réda</u>$, S. Nair$, et al. **A Systematic Scoring System to Optimise the Testing of Neurotherapeutics in Models of Perinatal Brain Injury, with an Applied Case Study of Human Umbilical-Cord MSC** Journal of Neuroinflammation, 2025 <font color="#003366">Under press</font>
 
 - R. Bordoloi, <u>C. Réda</u>, O. Trautmann, S. Bej and O. Wolkenhauer. **Multivariate functional linear discriminant analysis for partially‑observed time series** Machine Learning, 2025 [<font color="#003366">DOI-10.1007/s10994-025-06741-0</font>](https://doi.org/10.1007/s10994-025-06741-0)
 
@@ -19,7 +21,7 @@ permalink: /research/
 
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **Joint Embedding-Classifier Learning for Interpretable Collaborative Filtering** *In* BMC Bioinformatics, 2025 [<font color="#003366">DOI-10.1186/s12859-024-06026-8</font>](https://doi.org/10.1186/s12859-024-06026-8)
 
-- A. Dufour, A. Heydari-Olya, S. Foulon, <u>C. Réda</u>, et al. **Neonatal inflammation impairs developmentally-associated microglia and promotes a highly reactive microglial subset** *In* Brain, Behavior, and Immunity, 2025 [<font color="#003366">DOI-10.1016/j.bbi.2024.09.019</font>](https://doi.org/10.1016/j.bbi.2024.09.019) 
+- A. Dufour$, A. Heydari-Olya$, S. Foulon$, <u>C. Réda</u>, et al. **Neonatal inflammation impairs developmentally-associated microglia and promotes a highly reactive microglial subset** *In* Brain, Behavior, and Immunity, 2025 [<font color="#003366">DOI-10.1016/j.bbi.2024.09.019</font>](https://doi.org/10.1016/j.bbi.2024.09.019) 
 
 - <u>C. Réda</u>, B. Villoutreix, and A. Delahaye-Duriez. **Repositionnement de médicaments**
 *In* La Revue du Praticien, 2024 ([<font color="#003366">full text (paywall)</font>](https://www.larevuedupraticien.fr/article/repositionnement-de-medicaments)).
