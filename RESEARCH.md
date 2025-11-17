@@ -68,6 +68,8 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 ### *Invited talks in 2024-2025*
 
+- <u>C. Réda</u>. [**<font color="#003366">Seminar at Inria LIFEWARE</font>**](https://lifeware.inria.fr/wiki/Main/Seminar) *Palaiseau (France), October 21th, 2025*
+
 - <u>C. Réda</u>. [**<font color="#003366">Seminar at Inserm Neurodiderot</font>**](https://neurodiderot.u-paris.fr/seminaire-dr-clemence-reda-le-jeudi-13-mars-2025/) *Paris (France), March 13th, 2025*
 
 - <u>C. Réda</u>. [**<font color="#003366">Seminar at Inserm PARCC</font>**](https://parcc.inserm.fr/seminar/machine-learning-for-interpretability-in-systems-biology/) *Paris (France), February 18th, 2025*
