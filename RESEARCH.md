@@ -13,7 +13,7 @@ permalink: /research/
 
 ### *Papers*
 
-- C. Bokobza$, <u>C. Réda</u>$, S. Nair$, et al. **A Systematic Scoring System to Optimise the Testing of Neurotherapeutics in Models of Perinatal Brain Injury, with an Applied Case Study of Human Umbilical-Cord MSC** Journal of Neuroinflammation, 2025 <font color="#003366">Under press</font>
+- C. Bokobza$, <u>C. Réda</u>$, S. Nair$, et al. **A systematic scoring system to optimise the testing of neurotherapeutics in models of perinatal brain injury, with an applied case study of human umbilical-cord MSC** Journal of Neuroinflammation, 2025 [<font color="#003366">DOI-10.1186/s12974-025-03593-2</font>](https://doi.org/10.1186/s12974-025-03593-2)
 
 - R. Bordoloi, <u>C. Réda</u>, O. Trautmann, S. Bej and O. Wolkenhauer. **Multivariate functional linear discriminant analysis for partially‑observed time series** Machine Learning, 2025 [<font color="#003366">DOI-10.1007/s10994-025-06741-0</font>](https://doi.org/10.1007/s10994-025-06741-0)
 
