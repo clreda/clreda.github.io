@@ -13,9 +13,9 @@ permalink: /research/
 
 - M. Jourdan, A. Delahaye-Duriez and <u>C. Réda</u>. **An Anytime Algorithm for Good Arm Identification** *In* Journal of Machine Learning Research (in press), 2026 [<font color="#003366">DOI-10.48550/arXiv.2310.10359</font>](https://doi.org/10.48550/arXiv.2310.10359)  
 
-- C. Bokobza$, <u>C. Réda</u>$, S. Nair$, et al. **A systematic scoring system to optimise the testing of neurotherapeutics in models of perinatal brain injury, with an applied case study of human umbilical-cord MSC** Journal of Neuroinflammation, 2025 [<font color="#003366">DOI-10.1186/s12974-025-03593-2</font>](https://doi.org/10.1186/s12974-025-03593-2)
+- C. Bokobza$, <u>C. Réda</u>$, S. Nair$, et al. **A systematic scoring system to optimise the testing of neurotherapeutics in models of perinatal brain injury, with an applied case study of human umbilical-cord MSC** *In* Journal of Neuroinflammation, 2025 [<font color="#003366">DOI-10.1186/s12974-025-03593-2</font>](https://doi.org/10.1186/s12974-025-03593-2)
 
-- R. Bordoloi, <u>C. Réda</u>, O. Trautmann, S. Bej and O. Wolkenhauer. **Multivariate functional linear discriminant analysis for partially‑observed time series** Machine Learning, 2025 [<font color="#003366">DOI-10.1007/s10994-025-06741-0</font>](https://doi.org/10.1007/s10994-025-06741-0)
+- R. Bordoloi, <u>C. Réda</u>, O. Trautmann, S. Bej and O. Wolkenhauer. **Multivariate functional linear discriminant analysis for partially‑observed time series** *In* Machine Learning, 2025 [<font color="#003366">DOI-10.1007/s10994-025-06741-0</font>](https://doi.org/10.1007/s10994-025-06741-0)
 
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. **Comprehensive evaluation of collaborative filtering in drug repurposing** *In* Scientific Reports, 2025 [<font color="#003366">DOI-10.1038/s41598-025-85927-x</font>](https://doi.org/10.1038/s41598-025-85927-x)
 
