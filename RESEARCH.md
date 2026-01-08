@@ -9,9 +9,9 @@ permalink: /research/
 
 - R. Bordoloi$, <u>C. Réda</u>$, S. Bej and O. Wolkenhauer. **Handling Missing Data in Downstream Tasks With Distribution-Preserving Guarantees** *Under review*, 2025 [<font color="#003366">DOI-10.48550/arXiv.2501.13786</font>](https://doi.org/10.48550/arXiv.2501.13786)  
 
-- M. Jourdan and <u>C. Réda</u>. **An Anytime Algorithm for Good Arm Identification** *Under review*, 2023 [<font color="#003366">DOI-10.48550/arXiv.2310.10359</font>](https://doi.org/10.48550/arXiv.2310.10359)  
-
 ### *Papers*
+
+- M. Jourdan, A. Delahaye-Duriez and <u>C. Réda</u>. **An Anytime Algorithm for Good Arm Identification** *In* Journal of Machine Learning Research (in press), 2026 [<font color="#003366">DOI-10.48550/arXiv.2310.10359</font>](https://doi.org/10.48550/arXiv.2310.10359)  
 
 - C. Bokobza$, <u>C. Réda</u>$, S. Nair$, et al. **A systematic scoring system to optimise the testing of neurotherapeutics in models of perinatal brain injury, with an applied case study of human umbilical-cord MSC** Journal of Neuroinflammation, 2025 [<font color="#003366">DOI-10.1186/s12974-025-03593-2</font>](https://doi.org/10.1186/s12974-025-03593-2)
 
