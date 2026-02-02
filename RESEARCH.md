@@ -7,7 +7,11 @@ permalink: /research/
 
 ### *Preprints*
 
-- R. Bordoloi$, <u>C. Réda</u>$, S. Bej and O. Wolkenhauer. **Handling Missing Data in Downstream Tasks With Distribution-Preserving Guarantees** *Under review*, 2025 [<font color="#003366">DOI-10.48550/arXiv.2501.13786</font>](https://doi.org/10.48550/arXiv.2501.13786)  
+- <u>C. Réda</u>, T. Rigaux, H. Bederina, K. Takeuchi, H. Kashima and J.-J. Vie. **Adaptive Quality-Diversity Trade-offs for Large-Scale Batch Recommendation** *Under review* [<font color="#003366">HAL-05486558</font>](https://hal.archives-ouvertes.fr/hal-05486558)  
+
+- O. Trautmann, O. Wolkenhauer, and <u>C. Réda</u>. **Embedding Learning on Multiplex Networks for Link Prediction** *Under review* [<font color="#003366">HAL-05486554</font>](https://hal.archives-ouvertes.fr/hal-05486554)  
+
+- R. Bordoloi$, <u>C. Réda</u>$, S. Bej and O. Wolkenhauer. **Handling Missing Data in Downstream Tasks With Distribution-Preserving Guarantees** *Under review* [<font color="#003366">HAL-05067568</font>](https://hal.archives-ouvertes.fr/hal-05067568)  
 
 ### *Papers*
 
@@ -41,24 +45,26 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 - <u>C. Réda</u>, É. Kaufmann, and A. Delahaye-Duriez. **Machine learning applications in drug development** *In* Computational and Structural Biotechnology Journal, 2020 [<font color="#003366">DOI-10.1016/j.csbj.2019.12.006</font>](https://doi.org/10.1016/j.csbj.2019.12.006).
 
-- <u>C. Réda</u> and B. Wilczyński. **Automated Inference of Gene Regulatory Networks Using Explicit Regulatory Modules** *In* Journal of Theoretical Biology, 2020 [<font color="#003366">DOI-10.1016/j.jtbi.2019.110091</font>](https://doi.org/10.1016/j.jtbi.2019.110091). In accordance with Elsevier's [<font color="#003366">sharing policy</font>](https://www.elsevier.com/about/policies/sharing): [<font color="#003366">accepted manuscript</font>]({{ site.baseurl }}/assets/reda2019automated_accepted.pdf).
+- <u>C. Réda</u> and B. Wilczyński. **Automated Inference of Gene Regulatory Networks Using Explicit Regulatory Modules** *In* Journal of Theoretical Biology, 2020 [<font color="#003366">DOI-10.1016/j.jtbi.2019.110091</font>](https://doi.org/10.1016/j.jtbi.2019.110091). In accordance with Elsevier's [<font color="#003366">sharing policy</font>](https://www.elsevier.com/about/policies/sharing): [<font color="#003366">accepted manuscript</font>]({{ site.baseurl }}/assets/reda2019automated_accepted.pdf).https://jobim2025.labri.fr/program.pdf
 
 - A. Delahaye-Duriez, <u>C. Réda</u> and P. Gressens. **Identification de cibles thérapeutiques et repositionnement de médicaments par analyses de réseaux géniques**
 *In* médecine/sciences, 2019 [<font color="#003366">DOI-10.1051/medsci/2019108</font>](https://doi.org/10.1051/medsci/2019108) ([<font color="#003366">full text</font>](https://www.medecinesciences.org/en/articles/medsci/full_html/2019/07/msc190127/msc190127.html)).
 
-### *Oral and demo communications in 2024-2025*
+### *Oral and demo communications in 2024-2026*
 
-- F. Romano, <u>C. Réda</u> and A. Delahaye-Duriez. [**<font color="#003366">Journées Ouvertes en Biologie, Informatique et Mathématiques (JOBIM 2025)</font>**](https://jobim2025.labri.fr/program.pdf) *Bordeaux (France), July 8th-11th, 2025*
+- R. Bordoloi. **Multivariate functional linear discriminant analysis for partially-observed time series** [**<font color="#003366">Association for the Advancement of Artificial Intelligence (AAAI 2026)</font>**](https://aaai.org/conference/aaai/aaai-26/program-overview/) *Singapour, January 20th-27th, 2026*
 
-- <u>C. Réda</u>. [**<font color="#003366">Journées Ouvertes en Biologie, Informatique et Mathématiques (JOBIM 2025)</font>**](https://jobim2025.labri.fr/program.pdf) *Bordeaux (France), July 8th-11th, 2025*
+- F. Romano. **Network-centric identification and analysis of a model of post-traumatic stress disorder with NORDic** [**<font color="#003366">Journées Ouvertes en Biologie, Informatique et Mathématiques (JOBIM 2025)</font>**](https://jobim2025.labri.fr/program.pdf) *Bordeaux (France), July 8th-11th, 2025*
+
+- <u>C. Réda</u>. **Joint Embedding-Classifier Learning for Interpretable Collaborative Filtering** [**<font color="#003366">Journées Ouvertes en Biologie, Informatique et Mathématiques (JOBIM 2025)</font>**](https://jobim2025.labri.fr/program.pdf) *Bordeaux (France), July 8th-11th, 2025*
 
 - <u>C. Réda</u>. **NORDic: drug response simulation and drug repurposing with Boolean networks** *@GT Bioss Days 2024: CoLoMoTo Workshop* ([<font color="#003366">program</font>](https://codimd.math.cnrs.fr/s/EVOoKlvx4#)).
 
 - <u>C. Réda</u>. **NORDic: End-to-end inference for Boolean networks** *@Atelier GT Bioss 2024: Évaluation de méthodes d’inférence de modèles dynamiques* ([<font color="#003366">program</font>](https://codimd.math.cnrs.fr/s/pR4cVqX7d#)).
 
-### *Poster communications in 2024-2025*
+### *Poster communications in 2024-2026*
 
-- F. Romano, <u>C. Réda</u> and A. Delahaye-Duriez. **Network-centric analysis of a post-traumatic stress disorder regulatory model** *@ISMB/ECCB'25*
+- F. Romano. **Network-centric analysis of a post-traumatic stress disorder regulatory model** *@ISMB/ECCB'25*
 
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. [**<font color="#003366">JELI: an interpretable embedding-learning recommender system for drug repurposing</font>**]({{ site.baseurl }}/assets/ECCB2024_P406.pdf) *@ECCB'24*
 
@@ -66,7 +72,7 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. [**<font color="#003366">Towards a large-scale benchmark of collaborative filtering in drug repurposing</font>**]({{ site.baseurl }}/assets/SMPGD2024_Réda_poster.pdf) *@SMPGD'24*
 
-### *Invited talks in 2024-2025*
+### *Invited talks in 2024-2026*
 
 - <u>C. Réda</u>. [**<font color="#003366">Seminar at Inria LIFEWARE</font>**](https://lifeware.inria.fr/wiki/Main/Seminar) *Palaiseau (France), October 21th, 2025*
 
