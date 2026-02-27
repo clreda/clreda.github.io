@@ -1,7 +1,7 @@
 # Site settings
 title: "Clémence Réda"
 username: "Clémence Réda"
-user_title: "Research at IBENS since 2025/02"
+user_title: "CNRS researcher at IBENS since 2025/02"
 description: #>- this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://clreda.github.io
