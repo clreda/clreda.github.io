@@ -13,7 +13,7 @@ permalink: /research/
 
 ### *Papers*
 
-- O. Trautmann, O. Wolkenhauer, and <u>C. Réda</u>. **Embedding Learning on Multiplex Networks for Link Prediction** *In* Artificial Intelligence Review [<font color="#003366">DOI-10.1007/s10462-026-11656-w</font>](https://doi.org/10.1007/s10462-026-11656-w)
+- O. Trautmann, O. Wolkenhauer, and <u>C. Réda</u>. **Embedding Learning on Multiplex Networks for Link Prediction** *In* Artificial Intelligence Review, 2O26 [<font color="#003366">DOI-10.1007/s10462-026-11656-w</font>](https://doi.org/10.1007/s10462-026-11656-w)
 
 - M. Jourdan, A. Delahaye-Duriez and <u>C. Réda</u>. **An Anytime Algorithm for Good Arm Identification** *In* Journal of Machine Learning Research, 2026 [<font color="#003366">DOI-10.48550/arXiv.2310.10359</font>](http://jmlr.org/papers/v27/24-0680.html)  
 
