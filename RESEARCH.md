@@ -7,19 +7,15 @@ permalink: /research/
 
 ### *Preprints*
 
-- <u>C. Réda</u>, T. Rigaux, H. Bederina, K. Takeuchi, H. Kashima and J.-J. Vie. **Adaptive Quality-Diversity Trade-offs for Large-Scale Batch Recommendation** *Under review* [<font color="#003366">HAL-05486558</font>](https://hal.archives-ouvertes.fr/hal-05486558)  
-
-- O. Trautmann, O. Wolkenhauer, and <u>C. Réda</u>. **Embedding Learning on Multiplex Networks for Link Prediction** *Under review* [<font color="#003366">HAL-05486554</font>](https://hal.archives-ouvertes.fr/hal-05486554)  
+- <u>C. Réda</u>, T. Rigaux, H. Bederina, K. Takeuchi, H. Kashima and J.-J. Vie. **Adaptive Quality-Diversity Trade-offs for Large-Scale Batch Recommendation** *Under review* [<font color="#003366">HAL-05486558</font>](https://hal.archives-ouvertes.fr/hal-05486558)    
 
 - R. Bordoloi$, <u>C. Réda</u>$, S. Bej and O. Wolkenhauer. **Handling Missing Data in Downstream Tasks With Distribution-Preserving Guarantees** *Under review* [<font color="#003366">HAL-05067568</font>](https://hal.archives-ouvertes.fr/hal-05067568)  
 
 ### *Papers*
 
-<<<<<<< HEAD
-- M. Jourdan, A. Delahaye-Duriez and <u>C. Réda</u>. **An Anytime Algorithm for Good Arm Identification** *In* Journal of Machine Learning Research (in press), 2026 [<font color="#003366">DOI-10.48550/arXiv.2310.10359</font>](https://doi.org/10.48550/arXiv.2310.10359)  
-=======
+- O. Trautmann, O. Wolkenhauer, and <u>C. Réda</u>. **Embedding Learning on Multiplex Networks for Link Prediction** *In* Artificial Intelligence Review [<font color="#003366">DOI-10.1007/s10462-026-11656-w</font>](https://doi.org/10.1007/s10462-026-11656-w)
+
 - M. Jourdan, A. Delahaye-Duriez and <u>C. Réda</u>. **An Anytime Algorithm for Good Arm Identification** *In* Journal of Machine Learning Research, 2026 [<font color="#003366">DOI-10.48550/arXiv.2310.10359</font>](http://jmlr.org/papers/v27/24-0680.html)  
->>>>>>> cc9aff5c157942dbc557ca506ea344d45e16ad15
 
 - C. Bokobza$, <u>C. Réda</u>$, S. Nair$, et al. **A systematic scoring system to optimise the testing of neurotherapeutics in models of perinatal brain injury, with an applied case study of human umbilical-cord MSC** *In* Journal of Neuroinflammation, 2025 [<font color="#003366">DOI-10.1186/s12974-025-03593-2</font>](https://doi.org/10.1186/s12974-025-03593-2)
 
@@ -56,6 +52,8 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 ### *Oral and demo communications in 2024-2026*
 
+- M. Jourdan. **An Anytime Algorithm for Good Arm Identification** [**<font color="#003366">The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</font>**](https://aaai.org/conference/aaai/aaai-26/program-overview/) *Sydney, Australia, December 6th-12th*
+
 - R. Bordoloi. **Multivariate functional linear discriminant analysis for partially-observed time series** [**<font color="#003366">Association for the Advancement of Artificial Intelligence (AAAI 2026)</font>**](https://aaai.org/conference/aaai/aaai-26/program-overview/) *Singapour, January 20th-27th, 2026*
 
 - F. Romano. **Network-centric identification and analysis of a model of post-traumatic stress disorder with NORDic** [**<font color="#003366">Journées Ouvertes en Biologie, Informatique et Mathématiques (JOBIM 2025)</font>**](https://jobim2025.labri.fr/program.pdf) *Bordeaux (France), July 8th-11th, 2025*
@@ -77,6 +75,8 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. [**<font color="#003366">Towards a large-scale benchmark of collaborative filtering in drug repurposing</font>**]({{ site.baseurl }}/assets/SMPGD2024_Réda_poster.pdf) *@SMPGD'24*
 
 ### *Invited talks in 2024-2026*
+
+- <u>C. Réda</u>. [**<font color="#003366">Seminar at 20 ans du GDR BIMMM</font>**](https://20-ans-bimmm-26.sciencesconf.org/) *Paris (France), October 15th-16th, 2026*
 
 - <u>C. Réda</u>. [**<font color="#003366">Seminar at Inria LIFEWARE</font>**](https://lifeware.inria.fr/wiki/Main/Seminar) *Palaiseau (France), October 21th, 2025*
 

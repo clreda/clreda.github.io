@@ -7,7 +7,9 @@ permalink: /projects/
 
 ### *Applied Machine Learning/Collaborative Filtering*
 
-- Main website project for the [<font color="#003366">RECeSS project</font>](https://recess-eu-project.github.io/)
+- Main website project for the [<font color="#003366">RED project</font>](https://jilljenn.github.io/red/) for recommender systems encouraging diversity with Inria Paris-Saclay and Kyoto University
+
+- Main website project for the [<font color="#003366">RECeSS project</font>](https://recess-eu-project.github.io/) at Universität Rostock
 
    + We released *[<font color="#003366">stanscofi</font>](https://github.com/recess-eu-project/stanscofi)*, a helper Python Package for the development of collaborative-filtering based approaches, and *[<font color="#003366">benchscofi</font>](https://github.com/recess-eu-project/benchscofi)* for a large, reproducible benchmark on state-of-the-art algorithms.
    
