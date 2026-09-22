@@ -52,8 +52,6 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 ### *Oral and demo communications in 2024-2026*
 
-- M. Jourdan. **An Anytime Algorithm for Good Arm Identification** [**<font color="#003366">The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</font>**](https://aaai.org/conference/aaai/aaai-26/program-overview/) *Sydney, Australia, December 6th-12th*
-
 - R. Bordoloi. **Multivariate functional linear discriminant analysis for partially-observed time series** [**<font color="#003366">Association for the Advancement of Artificial Intelligence (AAAI 2026)</font>**](https://aaai.org/conference/aaai/aaai-26/program-overview/) *Singapour, January 20th-27th, 2026*
 
 - F. Romano. **Network-centric identification and analysis of a model of post-traumatic stress disorder with NORDic** [**<font color="#003366">Journées Ouvertes en Biologie, Informatique et Mathématiques (JOBIM 2025)</font>**](https://jobim2025.labri.fr/program.pdf) *Bordeaux (France), July 8th-11th, 2025*
@@ -66,6 +64,8 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 ### *Poster communications in 2024-2026*
 
+- M. Jourdan. **An Anytime Algorithm for Good Arm Identification** [**<font color="#003366">The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</font>**](https://aaai.org/conference/aaai/aaai-26/program-overview/) *Sydney, Australia, December 6th-12th, 2026*
+
 - F. Romano. **Network-centric analysis of a post-traumatic stress disorder regulatory model** *@ISMB/ECCB'25*
 
 - <u>C. Réda</u>, J.-J. Vie and O. Wolkenhauer. [**<font color="#003366">JELI: an interpretable embedding-learning recommender system for drug repurposing</font>**]({{ site.baseurl }}/assets/ECCB2024_P406.pdf) *@ECCB'24*
@@ -76,7 +76,7 @@ In accordance with Springer Nature's [<font color="#003366">sharing policy</font
 
 ### *Invited talks in 2024-2026*
 
-- <u>C. Réda</u>. [**<font color="#003366">Seminar at 20 ans du GDR BIMMM</font>**](https://20-ans-bimmm-26.sciencesconf.org/) *Paris (France), October 15th-16th, 2026*
+- <u>C. Réda</u>. [**<font color="#003366">Seminar at 20 ans du GDR BIMMM</font>**](https://20-ans-bimmm-26.sciencesconf.org/#programme) *Paris (France), October 15th, 2026*
 
 - <u>C. Réda</u>. [**<font color="#003366">Seminar at Inria LIFEWARE</font>**](https://lifeware.inria.fr/wiki/Main/Seminar) *Palaiseau (France), October 21th, 2025*
 
